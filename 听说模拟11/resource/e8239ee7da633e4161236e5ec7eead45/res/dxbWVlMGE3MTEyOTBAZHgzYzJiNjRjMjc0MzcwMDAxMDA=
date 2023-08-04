@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufk lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="175" content="rec_paper" end_pos="901" except_info="0" is_rejected="false" keywords="what best coffee shop could give suggestions|what types coffee less bitter recommend without caffeine|which type coffee best selling advice order|best coffee shop suggestions order|could give suggestions which kind coffee|what best coffee shop could recommend|which kind coffee more delicious shop recommend|which kind coffee most delicious shop recommend|which type coffee best selling suggestions|which type coffee best selling shop could give advice" phone_score="4.745869" reject_type="0" total_score="2.534362">
+                  <sentence content="what are the difference of the different types of coffee can you give me some suggestions " index="0">
+                      <word beg_pos="188" content="what" end_pos="225"></word>
+                      <word beg_pos="225" content="are" end_pos="233"></word>
+                      <word beg_pos="233" content="the" end_pos="247"></word>
+                      <word beg_pos="247" content="difference" end_pos="309"></word>
+                      <word beg_pos="309" content="of" end_pos="335"></word>
+                      <word beg_pos="335" content="the" end_pos="428"></word>
+                      <word beg_pos="428" content="different" end_pos="528"></word>
+                      <word beg_pos="528" content="types" end_pos="561"></word>
+                      <word beg_pos="561" content="of" end_pos="572"></word>
+                      <word beg_pos="572" content="coffee" end_pos="635"></word>
+                      <word beg_pos="635" content="can" end_pos="678"></word>
+                      <word beg_pos="678" content="you" end_pos="686"></word>
+                      <word beg_pos="686" content="give" end_pos="704"></word>
+                      <word beg_pos="704" content="me" end_pos="717"></word>
+                      <word beg_pos="717" content="some" end_pos="734"></word>
+                      <word beg_pos="734" content="suggestions" end_pos="815"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufk>
+  </xml_result>

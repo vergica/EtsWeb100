@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="41" content="rec_paper" end_pos="197" except_info="0" is_rejected="false" keywords="agree|neither do movie boring|it&apos;s exciting|agree it&apos;s not exciting enough|don&apos;t agree|don&apos;t think so" phone_score="3.916729" reject_type="0" total_score="2.019840">
+                  <sentence content="neither do i. " index="0">
+                      <word beg_pos="58" content="neither" end_pos="111"></word>
+                      <word beg_pos="111" content="do" end_pos="135"></word>
+                      <word beg_pos="135" content="i." end_pos="175"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

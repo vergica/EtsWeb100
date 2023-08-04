@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufk lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="111" content="rec_paper" end_pos="755" except_info="0" is_rejected="false" keywords="how prepare english speech contest meet anyone know|how celebrate ask teacher&apos;s help when preparing contest|how prepare english speech contest when preparing|how prepare english speech contest how feeling|congratulations how going celebrate how feeling|going take part how prepare english speech contest|how long prepared ask teacher&apos;s help when preparing contest" phone_score="4.992876" reject_type="0" total_score="3.090223">
+                  <sentence content="how can you win the english speech contest " index="0">
+                      <word beg_pos="113" content="how" end_pos="148"></word>
+                      <word beg_pos="148" content="can" end_pos="172"></word>
+                      <word beg_pos="172" content="you" end_pos="192"></word>
+                      <word beg_pos="192" content="win" end_pos="225"></word>
+                      <word beg_pos="225" content="the" end_pos="250"></word>
+                      <word beg_pos="250" content="english" end_pos="293"></word>
+                      <word beg_pos="293" content="speech" end_pos="335"></word>
+                      <word beg_pos="335" content="contest" end_pos="410"></word>
+                  </sentence>
+                  <sentence content="have you prepared a lot " index="1">
+                      <word beg_pos="548" content="have" end_pos="583"></word>
+                      <word beg_pos="583" content="you" end_pos="616"></word>
+                      <word beg_pos="616" content="prepared" end_pos="672"></word>
+                      <word beg_pos="672" content="a" end_pos="677"></word>
+                      <word beg_pos="677" content="lot" end_pos="727"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufk>
+  </xml_result>

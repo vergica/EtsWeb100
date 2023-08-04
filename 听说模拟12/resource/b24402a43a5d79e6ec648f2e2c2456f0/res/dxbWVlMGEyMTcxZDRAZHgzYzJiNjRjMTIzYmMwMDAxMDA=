@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <free_expression lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="123" content="rec_paper" end_pos="2356" except_info="0" is_rejected="false" phone_score="3.466989" reject_type="0" total_score="1.505911">
+                  <sentence content="i like stories about animals most because i like animals very much i think they are very cute " index="0">
+                      <word beg_pos="138" content="i" end_pos="161"></word>
+                      <word beg_pos="161" content="like" end_pos="193"></word>
+                      <word beg_pos="193" content="stories" end_pos="254"></word>
+                      <word beg_pos="254" content="about" end_pos="295"></word>
+                      <word beg_pos="295" content="animals" end_pos="343"></word>
+                      <word beg_pos="343" content="most" end_pos="396"></word>
+                      <word beg_pos="396" content="because" end_pos="452"></word>
+                      <word beg_pos="452" content="i" end_pos="465"></word>
+                      <word beg_pos="465" content="like" end_pos="501"></word>
+                      <word beg_pos="501" content="animals" end_pos="547"></word>
+                      <word beg_pos="547" content="very" end_pos="576"></word>
+                      <word beg_pos="576" content="much" end_pos="616"></word>
+                      <word beg_pos="616" content="i" end_pos="630"></word>
+                      <word beg_pos="630" content="think" end_pos="666"></word>
+                      <word beg_pos="666" content="they" end_pos="709"></word>
+                      <word beg_pos="709" content="are" end_pos="728"></word>
+                      <word beg_pos="728" content="very" end_pos="765"></word>
+                      <word beg_pos="765" content="cute" end_pos="815"></word>
+                  </sentence>
+                  <sentence content="i have a quite knowledge about animals through reading the stories about animals and i can take care of the in my future lies better " index="1">
+                      <word beg_pos="923" content="i" end_pos="943"></word>
+                      <word beg_pos="943" content="have" end_pos="969"></word>
+                      <word beg_pos="969" content="a" end_pos="979"></word>
+                      <word beg_pos="979" content="quite" end_pos="1010"></word>
+                      <word beg_pos="1010" content="knowledge" end_pos="1069"></word>
+                      <word beg_pos="1069" content="about" end_pos="1135"></word>
+                      <word beg_pos="1135" content="animals" end_pos="1199"></word>
+                      <word beg_pos="1199" content="through" end_pos="1244"></word>
+                      <word beg_pos="1244" content="reading" end_pos="1292"></word>
+                      <word beg_pos="1292" content="the" end_pos="1331"></word>
+                      <word beg_pos="1331" content="stories" end_pos="1439"></word>
+                      <word beg_pos="1439" content="about" end_pos="1473"></word>
+                      <word beg_pos="1473" content="animals" end_pos="1536"></word>
+                      <word beg_pos="1536" content="and" end_pos="1563"></word>
+                      <word beg_pos="1563" content="i" end_pos="1575"></word>
+                      <word beg_pos="1575" content="can" end_pos="1607"></word>
+                      <word beg_pos="1607" content="take" end_pos="1630"></word>
+                      <word beg_pos="1630" content="care" end_pos="1663"></word>
+                      <word beg_pos="1663" content="of" end_pos="1681"></word>
+                      <word beg_pos="1681" content="the" end_pos="1705"></word>
+                      <word beg_pos="1705" content="in" end_pos="1719"></word>
+                      <word beg_pos="1719" content="my" end_pos="1734"></word>
+                      <word beg_pos="1734" content="future" end_pos="1767"></word>
+                      <word beg_pos="1767" content="lies" end_pos="1796"></word>
+                      <word beg_pos="1796" content="better" end_pos="1853"></word>
+                  </sentence>
+                  <sentence content="i can also learn about love through reading the stories " index="2">
+                      <word beg_pos="1957" content="i" end_pos="1975"></word>
+                      <word beg_pos="1975" content="can" end_pos="1997"></word>
+                      <word beg_pos="1997" content="also" end_pos="2034"></word>
+                      <word beg_pos="2034" content="learn" end_pos="2058"></word>
+                      <word beg_pos="2058" content="about" end_pos="2092"></word>
+                      <word beg_pos="2092" content="love" end_pos="2128"></word>
+                      <word beg_pos="2128" content="through" end_pos="2180"></word>
+                      <word beg_pos="2180" content="reading" end_pos="2218"></word>
+                      <word beg_pos="2218" content="the" end_pos="2231"></word>
+                      <word beg_pos="2231" content="stories" end_pos="2314"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </free_expression>
+  </xml_result>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufk lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="125" content="rec_paper" end_pos="935" except_info="0" is_rejected="false" keywords="what result match did team win match|who taken part exciting|which class competed how game turn out|who taken part what result|did team play well who team|did team play well was match exciting|when match start how long match last|when match begin how long match last" phone_score="4.705929" reject_type="0" total_score="1.318725">
+                  <sentence content="what do you think of the match " index="0">
+                      <word beg_pos="127" content="what" end_pos="178"></word>
+                      <word beg_pos="178" content="do" end_pos="193"></word>
+                      <word beg_pos="193" content="you" end_pos="210"></word>
+                      <word beg_pos="210" content="think" end_pos="248"></word>
+                      <word beg_pos="248" content="of" end_pos="269"></word>
+                      <word beg_pos="269" content="the" end_pos="288"></word>
+                      <word beg_pos="288" content="match" end_pos="356"></word>
+                  </sentence>
+                  <sentence content="do we perform well " index="1">
+                      <word beg_pos="711" content="do" end_pos="739"></word>
+                      <word beg_pos="739" content="we" end_pos="767"></word>
+                      <word beg_pos="767" content="perform" end_pos="812"></word>
+                      <word beg_pos="812" content="well" end_pos="856"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufk>
+  </xml_result>

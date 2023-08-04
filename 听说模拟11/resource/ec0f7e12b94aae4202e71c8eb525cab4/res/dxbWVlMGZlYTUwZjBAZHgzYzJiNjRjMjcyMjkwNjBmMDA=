@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="117" content="rec_paper" end_pos="386" except_info="0" is_rejected="false" keywords="six|don&apos;t have english lessons|six|seven|eight|nine|ten|eleven|twelve|one|two|three|four|five|no" phone_score="4.666597" reject_type="0" total_score="4.436708">
+                  <sentence content="ten english lessons a week " index="0">
+                      <word beg_pos="126" content="ten" end_pos="165"></word>
+                      <word beg_pos="165" content="english" end_pos="214"></word>
+                      <word beg_pos="214" content="lessons" end_pos="263"></word>
+                      <word beg_pos="263" content="a" end_pos="272"></word>
+                      <word beg_pos="272" content="week" end_pos="312"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

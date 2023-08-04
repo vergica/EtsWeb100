@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="115" content="rec_paper" end_pos="315" except_info="0" is_rejected="false" keywords="sorry" phone_score="4.561107" reject_type="0" total_score="1.892069">
+                  <sentence content="ok i&apos;ll say that again " index="0">
+                      <word beg_pos="127" content="ok" end_pos="182"></word>
+                      <word beg_pos="182" content="i&apos;ll" end_pos="207"></word>
+                      <word beg_pos="207" content="say" end_pos="226"></word>
+                      <word beg_pos="226" content="that" end_pos="244"></word>
+                      <word beg_pos="244" content="again" end_pos="298"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

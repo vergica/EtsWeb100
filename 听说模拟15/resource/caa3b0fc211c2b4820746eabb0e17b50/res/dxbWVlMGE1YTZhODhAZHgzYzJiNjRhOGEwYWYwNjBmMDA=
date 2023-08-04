@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufk lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="245" content="rec_paper" end_pos="1528" except_info="0" is_rejected="false" keywords="how much do have these shoes other colours|can recommend sports shoes what brand shoes|can show shoes how much cost|do you give any discount shoes how much pay|may i try on how look|can i have a discount how much pay|do you have size nine what colours have|where find white shoes do you have any on sale|what soles made from how much|can i look shoes what colours have" phone_score="3.685928" reject_type="0" total_score="1.150717">
+                  <sentence content="what color are these shoes " index="0">
+                      <word beg_pos="263" content="what" end_pos="299"></word>
+                      <word beg_pos="299" content="color" end_pos="349"></word>
+                      <word beg_pos="349" content="are" end_pos="363"></word>
+                      <word beg_pos="363" content="these" end_pos="384"></word>
+                      <word beg_pos="384" content="shoes" end_pos="466"></word>
+                  </sentence>
+                  <sentence content="and " index="1">
+                      <word beg_pos="694" content="and" end_pos="718"></word>
+                  </sentence>
+                  <sentence content="what&apos;s the size of the shoes " index="2">
+                      <word beg_pos="1248" content="what&apos;s" end_pos="1279"></word>
+                      <word beg_pos="1279" content="the" end_pos="1295"></word>
+                      <word beg_pos="1295" content="size" end_pos="1363"></word>
+                      <word beg_pos="1363" content="of" end_pos="1405"></word>
+                      <word beg_pos="1405" content="the" end_pos="1424"></word>
+                      <word beg_pos="1424" content="shoes" end_pos="1504"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufk>
+  </xml_result>

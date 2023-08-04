@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufk lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="82" content="rec_paper" end_pos="658" except_info="0" is_rejected="false" keywords="could tell how get there which direction turn|know way grand theatre which direction turn|know how get grand theatre which direction turn|could tell way which direction turn|could tell way grand theatre which direction turn|could tell way grand theatre which direction should turn|know how can get grand theatre can show|can&apos;t find way grand theatre could tell way how get grand theatre|can&apos;t find way grand theatre do know how get can show way|could tell way grand theatre how get grand theatre|can&apos;t find way grand theatre could tell how get could show way" phone_score="5.000000" reject_type="0" total_score="4.630687">
+                  <sentence content="do you know the way to the grand theatre " index="0">
+                      <word beg_pos="91" content="do" end_pos="114"></word>
+                      <word beg_pos="114" content="you" end_pos="135"></word>
+                      <word beg_pos="135" content="know" end_pos="161"></word>
+                      <word beg_pos="161" content="the" end_pos="177"></word>
+                      <word beg_pos="177" content="way" end_pos="209"></word>
+                      <word beg_pos="209" content="to" end_pos="237"></word>
+                      <word beg_pos="237" content="the" end_pos="255"></word>
+                      <word beg_pos="255" content="grand" end_pos="287"></word>
+                      <word beg_pos="287" content="theatre" end_pos="344"></word>
+                  </sentence>
+                  <sentence content="how can i get to the grand theatre " index="1">
+                      <word beg_pos="431" content="how" end_pos="460"></word>
+                      <word beg_pos="460" content="can" end_pos="480"></word>
+                      <word beg_pos="480" content="i" end_pos="491"></word>
+                      <word beg_pos="491" content="get" end_pos="514"></word>
+                      <word beg_pos="514" content="to" end_pos="527"></word>
+                      <word beg_pos="527" content="the" end_pos="542"></word>
+                      <word beg_pos="542" content="grand" end_pos="578"></word>
+                      <word beg_pos="578" content="theatre" end_pos="635"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufk>
+  </xml_result>

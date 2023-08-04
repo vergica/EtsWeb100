@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <topic lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper accuracy_score="2.191867" beg_pos="80" content="rec_paper" end_pos="2899" except_info="0" is_rejected="false" keypoints="" phone_score="5.000000" reject_type="0" speeking_speed="124.491455" total_score="2.906474">
+                  <sentence content="tim and tom are two ets " index="0">
+                      <word beg_pos="85" content="tim" end_pos="133"></word>
+                      <word beg_pos="133" content="and" end_pos="163"></word>
+                      <word beg_pos="163" content="tom" end_pos="207"></word>
+                      <word beg_pos="207" content="are" end_pos="231"></word>
+                      <word beg_pos="231" content="two" end_pos="271"></word>
+                      <word beg_pos="271" content="ets" end_pos="355"></word>
+                  </sentence>
+                  <sentence content="one day when they are flying in a spaceship they found a new planet they went they go to the planet " index="1">
+                      <word beg_pos="413" content="one" end_pos="457"></word>
+                      <word beg_pos="457" content="day" end_pos="501"></word>
+                      <word beg_pos="501" content="when" end_pos="543"></word>
+                      <word beg_pos="543" content="they" end_pos="567"></word>
+                      <word beg_pos="567" content="are" end_pos="575"></word>
+                      <word beg_pos="575" content="flying" end_pos="641"></word>
+                      <word beg_pos="641" content="in" end_pos="665"></word>
+                      <word beg_pos="665" content="a" end_pos="675"></word>
+                      <word beg_pos="675" content="spaceship" end_pos="761"></word>
+                      <word beg_pos="761" content="they" end_pos="829"></word>
+                      <word beg_pos="829" content="found" end_pos="859"></word>
+                      <word beg_pos="859" content="a" end_pos="863"></word>
+                      <word beg_pos="863" content="new" end_pos="893"></word>
+                      <word beg_pos="893" content="planet" end_pos="969"></word>
+                      <word beg_pos="969" content="they" end_pos="1153"></word>
+                      <word beg_pos="1153" content="went" end_pos="1194"></word>
+                      <word beg_pos="1194" content="they" end_pos="1217"></word>
+                      <word beg_pos="1217" content="go" end_pos="1241"></word>
+                      <word beg_pos="1241" content="to" end_pos="1269"></word>
+                      <word beg_pos="1269" content="the" end_pos="1289"></word>
+                      <word beg_pos="1289" content="planet" end_pos="1359"></word>
+                  </sentence>
+                  <sentence content="and find the air around the planet is very dirty so they " index="2">
+                      <word beg_pos="1421" content="and" end_pos="1501"></word>
+                      <word beg_pos="1501" content="find" end_pos="1599"></word>
+                      <word beg_pos="1599" content="the" end_pos="1643"></word>
+                      <word beg_pos="1643" content="air" end_pos="1703"></word>
+                      <word beg_pos="1703" content="around" end_pos="1774"></word>
+                      <word beg_pos="1774" content="the" end_pos="1783"></word>
+                      <word beg_pos="1783" content="planet" end_pos="1859"></word>
+                      <word beg_pos="1859" content="is" end_pos="1929"></word>
+                      <word beg_pos="1929" content="very" end_pos="1969"></word>
+                      <word beg_pos="1969" content="dirty" end_pos="2031"></word>
+                      <word beg_pos="2031" content="so" end_pos="2121"></word>
+                      <word beg_pos="2121" content="they" end_pos="2195"></word>
+                  </sentence>
+                  <sentence content="run away very quickly " index="3">
+                      <word beg_pos="2289" content="run" end_pos="2331"></word>
+                      <word beg_pos="2331" content="away" end_pos="2369"></word>
+                      <word beg_pos="2369" content="very" end_pos="2405"></word>
+                      <word beg_pos="2405" content="quickly" end_pos="2463"></word>
+                  </sentence>
+                  <sentence content="they are wondering how people there can survive " index="4">
+                      <word beg_pos="2537" content="they" end_pos="2567"></word>
+                      <word beg_pos="2567" content="are" end_pos="2575"></word>
+                      <word beg_pos="2575" content="wondering" end_pos="2634"></word>
+                      <word beg_pos="2634" content="how" end_pos="2677"></word>
+                      <word beg_pos="2677" content="people" end_pos="2721"></word>
+                      <word beg_pos="2721" content="there" end_pos="2753"></word>
+                      <word beg_pos="2753" content="can" end_pos="2777"></word>
+                      <word beg_pos="2777" content="survive" end_pos="2831"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </topic>
+  </xml_result>

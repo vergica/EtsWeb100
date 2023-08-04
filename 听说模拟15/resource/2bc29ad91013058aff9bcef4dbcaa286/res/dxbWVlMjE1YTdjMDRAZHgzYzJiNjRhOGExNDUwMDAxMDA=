@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <topic lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper accuracy_score="2.089790" beg_pos="0" content="rec_paper" end_pos="2450" except_info="0" is_rejected="false" keypoints="" phone_score="5.000000" reject_type="0" speeking_speed="137.733139" total_score="3.068166">
+                  <sentence content="one day a bird was thirsty the bird found a bottle with water in it " index="0">
+                      <word beg_pos="120" content="one" end_pos="151"></word>
+                      <word beg_pos="151" content="day" end_pos="179"></word>
+                      <word beg_pos="179" content="a" end_pos="191"></word>
+                      <word beg_pos="191" content="bird" end_pos="223"></word>
+                      <word beg_pos="223" content="was" end_pos="255"></word>
+                      <word beg_pos="255" content="thirsty" end_pos="316"></word>
+                      <word beg_pos="316" content="the" end_pos="383"></word>
+                      <word beg_pos="383" content="bird" end_pos="427"></word>
+                      <word beg_pos="427" content="found" end_pos="477"></word>
+                      <word beg_pos="477" content="a" end_pos="515"></word>
+                      <word beg_pos="515" content="bottle" end_pos="579"></word>
+                      <word beg_pos="579" content="with" end_pos="627"></word>
+                      <word beg_pos="627" content="water" end_pos="675"></word>
+                      <word beg_pos="675" content="in" end_pos="691"></word>
+                      <word beg_pos="691" content="it" end_pos="733"></word>
+                  </sentence>
+                  <sentence content="she a bird trying to drank the water in it but she found it difficult so the bird use its beak to " index="1">
+                      <word beg_pos="851" content="she" end_pos="917"></word>
+                      <word beg_pos="917" content="a" end_pos="1019"></word>
+                      <word beg_pos="1019" content="bird" end_pos="1053"></word>
+                      <word beg_pos="1053" content="trying" end_pos="1094"></word>
+                      <word beg_pos="1094" content="to" end_pos="1175"></word>
+                      <word beg_pos="1175" content="drank" end_pos="1245"></word>
+                      <word beg_pos="1245" content="the" end_pos="1257"></word>
+                      <word beg_pos="1257" content="water" end_pos="1299"></word>
+                      <word beg_pos="1299" content="in" end_pos="1313"></word>
+                      <word beg_pos="1313" content="it" end_pos="1339"></word>
+                      <word beg_pos="1339" content="but" end_pos="1363"></word>
+                      <word beg_pos="1363" content="she" end_pos="1395"></word>
+                      <word beg_pos="1395" content="found" end_pos="1425"></word>
+                      <word beg_pos="1425" content="it" end_pos="1441"></word>
+                      <word beg_pos="1441" content="difficult" end_pos="1507"></word>
+                      <word beg_pos="1507" content="so" end_pos="1591"></word>
+                      <word beg_pos="1591" content="the" end_pos="1629"></word>
+                      <word beg_pos="1629" content="bird" end_pos="1665"></word>
+                      <word beg_pos="1665" content="use" end_pos="1713"></word>
+                      <word beg_pos="1713" content="its" end_pos="1741"></word>
+                      <word beg_pos="1741" content="beak" end_pos="1777"></word>
+                      <word beg_pos="1777" content="to" end_pos="1837"></word>
+                  </sentence>
+                  <sentence content="put stones in it " index="2">
+                      <word beg_pos="1853" content="put" end_pos="1883"></word>
+                      <word beg_pos="1883" content="stones" end_pos="1941"></word>
+                      <word beg_pos="1941" content="in" end_pos="1959"></word>
+                      <word beg_pos="1959" content="it" end_pos="1995"></word>
+                  </sentence>
+                  <sentence content="finally the bird drank the water successful " index="3">
+                      <word beg_pos="2063" content="finally" end_pos="2131"></word>
+                      <word beg_pos="2131" content="the" end_pos="2207"></word>
+                      <word beg_pos="2207" content="bird" end_pos="2253"></word>
+                      <word beg_pos="2253" content="drank" end_pos="2289"></word>
+                      <word beg_pos="2289" content="the" end_pos="2311"></word>
+                      <word beg_pos="2311" content="water" end_pos="2351"></word>
+                      <word beg_pos="2351" content="successful" end_pos="2413"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </topic>
+  </xml_result>

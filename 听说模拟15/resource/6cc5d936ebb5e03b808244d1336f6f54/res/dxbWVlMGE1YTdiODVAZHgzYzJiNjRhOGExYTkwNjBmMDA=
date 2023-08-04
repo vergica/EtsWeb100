@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="97" content="rec_paper" end_pos="416" except_info="28680" is_rejected="false" keywords="cute|lovely|like|smart|strong handsome|noisy|naughty|don&apos;t like|scared|afraid" phone_score="3.906025" reject_type="1024" total_score="3.126759">
+                  <sentence content="i think the dog is cute " index="0">
+                      <word beg_pos="124" content="i" end_pos="138"></word>
+                      <word beg_pos="138" content="think" end_pos="163"></word>
+                      <word beg_pos="163" content="the" end_pos="185"></word>
+                      <word beg_pos="185" content="dog" end_pos="225"></word>
+                      <word beg_pos="225" content="is" end_pos="283"></word>
+                      <word beg_pos="283" content="cute" end_pos="328"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

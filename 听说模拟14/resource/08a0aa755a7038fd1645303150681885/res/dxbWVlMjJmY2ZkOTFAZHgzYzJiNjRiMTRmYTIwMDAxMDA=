@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="44" content="rec_paper" end_pos="280" except_info="0" is_rejected="false" keywords="nice meet|glad meet" phone_score="5.000000" reject_type="0" total_score="4.991791">
+                  <sentence content="hello john nice to meet you " index="0">
+                      <word beg_pos="55" content="hello" end_pos="105"></word>
+                      <word beg_pos="105" content="john" end_pos="148"></word>
+                      <word beg_pos="148" content="nice" end_pos="187"></word>
+                      <word beg_pos="187" content="to" end_pos="203"></word>
+                      <word beg_pos="203" content="meet" end_pos="231"></word>
+                      <word beg_pos="231" content="you" end_pos="258"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

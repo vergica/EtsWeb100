@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufj lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="66" content="rec_paper" end_pos="1040" except_info="0" is_rejected="false" keywords="roots shallow covered bark resists acids form mud get rid salt water forcing leaves" phone_score="3.966651" reject_type="0" total_score="0.402593" word_hit_of_each_kw="0.14">
+                  <sentence content="mangrove trees managed to survive by developing and specialized in their shallow roots and " index="0">
+                      <word beg_pos="75" content="mangrove" end_pos="151"></word>
+                      <word beg_pos="151" content="trees" end_pos="200"></word>
+                      <word beg_pos="200" content="managed" end_pos="256"></word>
+                      <word beg_pos="256" content="to" end_pos="272"></word>
+                      <word beg_pos="272" content="survive" end_pos="334"></word>
+                      <word beg_pos="334" content="by" end_pos="371"></word>
+                      <word beg_pos="371" content="developing" end_pos="447"></word>
+                      <word beg_pos="447" content="and" end_pos="514"></word>
+                      <word beg_pos="514" content="specialized" end_pos="584"></word>
+                      <word beg_pos="584" content="in" end_pos="601"></word>
+                      <word beg_pos="601" content="their" end_pos="631"></word>
+                      <word beg_pos="631" content="shallow" end_pos="688"></word>
+                      <word beg_pos="688" content="roots" end_pos="799"></word>
+                      <word beg_pos="799" content="and" end_pos="857"></word>
+                  </sentence>
+                  <sentence content="leaves " index="1">
+                      <word beg_pos="942" content="leaves" end_pos="1021"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufj>
+  </xml_result>

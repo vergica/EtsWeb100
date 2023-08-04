@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="125" content="rec_paper" end_pos="299" except_info="0" is_rejected="false" keywords="sorry|sorry not on purpose|sorry never do thing|sorry didn&apos;t notice|sorry won&apos;t do" phone_score="4.032020" reject_type="0" total_score="3.553190">
+                  <sentence content="sorry " index="0">
+                      <word beg_pos="139" content="sorry" end_pos="210"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufj lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="115" content="rec_paper" end_pos="396" except_info="0" is_rejected="false" keywords="social skills use language|social skills expression thoughts feelings|social skills awareness natural world|use language expression thoughts feelings|use language awareness natural world|expression thoughts feelings awareness natural world" phone_score="5.000000" reject_type="0" total_score="4.772285" word_hit_of_each_kw="1.00|0.40|0.40|0.40|0.40|0.00">
+                  <sentence content="social skills and use of languages " index="0">
+                      <word beg_pos="127" content="social" end_pos="177"></word>
+                      <word beg_pos="177" content="skills" end_pos="227"></word>
+                      <word beg_pos="227" content="and" end_pos="248"></word>
+                      <word beg_pos="248" content="use" end_pos="283"></word>
+                      <word beg_pos="283" content="of" end_pos="300"></word>
+                      <word beg_pos="300" content="languages" end_pos="376"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufj>
+  </xml_result>

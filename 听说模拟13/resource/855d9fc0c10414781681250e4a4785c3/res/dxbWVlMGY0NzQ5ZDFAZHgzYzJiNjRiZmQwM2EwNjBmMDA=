@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <free_expression lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="71" content="rec_paper" end_pos="2185" except_info="0" is_rejected="false" phone_score="4.147281" reject_type="0" total_score="2.533847">
+                  <sentence content="i have carried out an experiment out of class i wanted to find out what influence " index="0">
+                      <word beg_pos="82" content="i" end_pos="106"></word>
+                      <word beg_pos="106" content="have" end_pos="148"></word>
+                      <word beg_pos="148" content="carried" end_pos="204"></word>
+                      <word beg_pos="204" content="out" end_pos="251"></word>
+                      <word beg_pos="251" content="an" end_pos="290"></word>
+                      <word beg_pos="290" content="experiment" end_pos="375"></word>
+                      <word beg_pos="375" content="out" end_pos="404"></word>
+                      <word beg_pos="404" content="of" end_pos="416"></word>
+                      <word beg_pos="416" content="class" end_pos="477"></word>
+                      <word beg_pos="477" content="i" end_pos="518"></word>
+                      <word beg_pos="518" content="wanted" end_pos="568"></word>
+                      <word beg_pos="568" content="to" end_pos="589"></word>
+                      <word beg_pos="589" content="find" end_pos="627"></word>
+                      <word beg_pos="627" content="out" end_pos="670"></word>
+                      <word beg_pos="670" content="what" end_pos="722"></word>
+                      <word beg_pos="722" content="influence" end_pos="813"></word>
+                  </sentence>
+                  <sentence content="the growth of plant i suppose that sunshine will influence the growth " index="1">
+                      <word beg_pos="842" content="the" end_pos="893"></word>
+                      <word beg_pos="893" content="growth" end_pos="945"></word>
+                      <word beg_pos="945" content="of" end_pos="974"></word>
+                      <word beg_pos="974" content="plant" end_pos="1036"></word>
+                      <word beg_pos="1036" content="i" end_pos="1127"></word>
+                      <word beg_pos="1127" content="suppose" end_pos="1180"></word>
+                      <word beg_pos="1180" content="that" end_pos="1232"></word>
+                      <word beg_pos="1232" content="sunshine" end_pos="1391"></word>
+                      <word beg_pos="1391" content="will" end_pos="1418"></word>
+                      <word beg_pos="1418" content="influence" end_pos="1485"></word>
+                      <word beg_pos="1485" content="the" end_pos="1510"></word>
+                      <word beg_pos="1510" content="growth" end_pos="1569"></word>
+                  </sentence>
+                  <sentence content="and i finally found that plants grow better where there is more sunlight " index="2">
+                      <word beg_pos="1607" content="and" end_pos="1666"></word>
+                      <word beg_pos="1666" content="i" end_pos="1691"></word>
+                      <word beg_pos="1691" content="finally" end_pos="1734"></word>
+                      <word beg_pos="1734" content="found" end_pos="1766"></word>
+                      <word beg_pos="1766" content="that" end_pos="1819"></word>
+                      <word beg_pos="1819" content="plants" end_pos="1910"></word>
+                      <word beg_pos="1910" content="grow" end_pos="1939"></word>
+                      <word beg_pos="1939" content="better" end_pos="1986"></word>
+                      <word beg_pos="1986" content="where" end_pos="2028"></word>
+                      <word beg_pos="2028" content="there" end_pos="2057"></word>
+                      <word beg_pos="2057" content="is" end_pos="2071"></word>
+                      <word beg_pos="2071" content="more" end_pos="2096"></word>
+                      <word beg_pos="2096" content="sunlight" end_pos="2160"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </free_expression>
+  </xml_result>

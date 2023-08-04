@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufk lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="201" content="rec_paper" end_pos="916" except_info="0" is_rejected="false" keywords="books written mo yan library where books written|looking book written where chinese literature area|books written mo yan library where find books written mo yan|do favor find books written mo yan where books written|do favor find books written where chinese novel area|give hand where books written mo yan" phone_score="4.487724" reject_type="0" total_score="3.314380">
+                  <sentence content="where is the book written by mo yan can you help me to find it " index="0">
+                      <word beg_pos="219" content="where" end_pos="265"></word>
+                      <word beg_pos="265" content="is" end_pos="285"></word>
+                      <word beg_pos="285" content="the" end_pos="303"></word>
+                      <word beg_pos="303" content="book" end_pos="350"></word>
+                      <word beg_pos="350" content="written" end_pos="389"></word>
+                      <word beg_pos="389" content="by" end_pos="406"></word>
+                      <word beg_pos="406" content="mo" end_pos="435"></word>
+                      <word beg_pos="435" content="yan" end_pos="477"></word>
+                      <word beg_pos="477" content="can" end_pos="728"></word>
+                      <word beg_pos="728" content="you" end_pos="743"></word>
+                      <word beg_pos="743" content="help" end_pos="786"></word>
+                      <word beg_pos="786" content="me" end_pos="806"></word>
+                      <word beg_pos="806" content="to" end_pos="824"></word>
+                      <word beg_pos="824" content="find" end_pos="858"></word>
+                      <word beg_pos="858" content="it" end_pos="892"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufk>
+  </xml_result>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="61" content="rec_paper" end_pos="278" except_info="0" is_rejected="false" keywords="no don&apos;t mind please put here|not at all you can put here|sorry this friend&apos;s seat and he&apos;ll here later|of course not just put here|not at all|no|no go ahead|sorry but friend will sit here later|sorry you&apos;d better don&apos;t do that|yes please don&apos;t do that" phone_score="4.708195" reject_type="0" total_score="3.901227">
+                  <sentence content="of course not " index="0">
+                      <word beg_pos="77" content="of" end_pos="104"></word>
+                      <word beg_pos="104" content="course" end_pos="140"></word>
+                      <word beg_pos="140" content="not" end_pos="187"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <topic lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper accuracy_score="2.126938" beg_pos="33" content="rec_paper" end_pos="3379" except_info="0" is_rejected="false" keypoints="" phone_score="5.000000" reject_type="0" speeking_speed="126.113289" total_score="2.631368">
+                  <sentence content="mary is a security guard in the underground railway station " index="0">
+                      <word beg_pos="86" content="mary" end_pos="141"></word>
+                      <word beg_pos="141" content="is" end_pos="171"></word>
+                      <word beg_pos="171" content="a" end_pos="179"></word>
+                      <word beg_pos="179" content="security" end_pos="249"></word>
+                      <word beg_pos="249" content="guard" end_pos="293"></word>
+                      <word beg_pos="293" content="in" end_pos="319"></word>
+                      <word beg_pos="319" content="the" end_pos="339"></word>
+                      <word beg_pos="339" content="underground" end_pos="405"></word>
+                      <word beg_pos="405" content="railway" end_pos="449"></word>
+                      <word beg_pos="449" content="station" end_pos="531"></word>
+                  </sentence>
+                  <sentence content="she should make sure that the things in the back of passengers are security " index="1">
+                      <word beg_pos="663" content="she" end_pos="707"></word>
+                      <word beg_pos="707" content="should" end_pos="743"></word>
+                      <word beg_pos="743" content="make" end_pos="767"></word>
+                      <word beg_pos="767" content="sure" end_pos="805"></word>
+                      <word beg_pos="805" content="that" end_pos="870"></word>
+                      <word beg_pos="870" content="the" end_pos="1021"></word>
+                      <word beg_pos="1021" content="things" end_pos="1071"></word>
+                      <word beg_pos="1071" content="in" end_pos="1109"></word>
+                      <word beg_pos="1109" content="the" end_pos="1137"></word>
+                      <word beg_pos="1137" content="back" end_pos="1178"></word>
+                      <word beg_pos="1178" content="of" end_pos="1197"></word>
+                      <word beg_pos="1197" content="passengers" end_pos="1296"></word>
+                      <word beg_pos="1296" content="are" end_pos="1395"></word>
+                      <word beg_pos="1395" content="security" end_pos="1472"></word>
+                  </sentence>
+                  <sentence content="one day she made a man with with a big box she found firecrackers in the box and she told the man that " index="2">
+                      <word beg_pos="1509" content="one" end_pos="1547"></word>
+                      <word beg_pos="1547" content="day" end_pos="1591"></word>
+                      <word beg_pos="1591" content="she" end_pos="1653"></word>
+                      <word beg_pos="1653" content="made" end_pos="1684"></word>
+                      <word beg_pos="1684" content="a" end_pos="1691"></word>
+                      <word beg_pos="1691" content="man" end_pos="1725"></word>
+                      <word beg_pos="1725" content="with" end_pos="1761"></word>
+                      <word beg_pos="1761" content="with" end_pos="1869"></word>
+                      <word beg_pos="1869" content="a" end_pos="1941"></word>
+                      <word beg_pos="1941" content="big" end_pos="1971"></word>
+                      <word beg_pos="1971" content="box" end_pos="2033"></word>
+                      <word beg_pos="2033" content="she" end_pos="2111"></word>
+                      <word beg_pos="2111" content="found" end_pos="2177"></word>
+                      <word beg_pos="2177" content="firecrackers" end_pos="2261"></word>
+                      <word beg_pos="2261" content="in" end_pos="2285"></word>
+                      <word beg_pos="2285" content="the" end_pos="2295"></word>
+                      <word beg_pos="2295" content="box" end_pos="2343"></word>
+                      <word beg_pos="2343" content="and" end_pos="2403"></word>
+                      <word beg_pos="2403" content="she" end_pos="2443"></word>
+                      <word beg_pos="2443" content="told" end_pos="2471"></word>
+                      <word beg_pos="2471" content="the" end_pos="2483"></word>
+                      <word beg_pos="2483" content="man" end_pos="2533"></word>
+                      <word beg_pos="2533" content="that" end_pos="2611"></word>
+                  </sentence>
+                  <sentence content="he " index="3">
+                      <word beg_pos="2661" content="he" end_pos="2733"></word>
+                  </sentence>
+                  <sentence content="shouldn&apos;t take it " index="4">
+                      <word beg_pos="2835" content="shouldn&apos;t" end_pos="2903"></word>
+                      <word beg_pos="2903" content="take" end_pos="2943"></word>
+                      <word beg_pos="2943" content="it" end_pos="2991"></word>
+                  </sentence>
+                  <sentence content="and asked the man to take it away " index="5">
+                      <word beg_pos="3136" content="and" end_pos="3177"></word>
+                      <word beg_pos="3177" content="asked" end_pos="3208"></word>
+                      <word beg_pos="3208" content="the" end_pos="3217"></word>
+                      <word beg_pos="3217" content="man" end_pos="3251"></word>
+                      <word beg_pos="3251" content="to" end_pos="3263"></word>
+                      <word beg_pos="3263" content="take" end_pos="3286"></word>
+                      <word beg_pos="3286" content="it" end_pos="3302"></word>
+                      <word beg_pos="3302" content="away" end_pos="3359"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </topic>
+  </xml_result>

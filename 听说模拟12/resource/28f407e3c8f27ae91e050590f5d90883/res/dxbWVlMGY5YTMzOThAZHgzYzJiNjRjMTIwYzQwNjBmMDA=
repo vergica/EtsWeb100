@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <read_chapter lan="en" type="study" version="7.0.0.1046">
+          <rec_paper>
+              <read_chapter accuracy_score="4.426280" beg_pos="0" content="The majority of my time on the Web involves looking up technical computer information, which I use for teaching Microsoft application classes and providing technical advice at work. Outside of work, I really like following all aspects of the financial world, and the Web has turned into a great resource for this hobby. I can&apos;t imagine being without it." continus_deduct_score="0.000000" end_pos="2824" except_info="0" fluency_score="4.656072" improper_cnt="0.000000" integrity_score="5.000000" is_rejected="false" reject_type="0" rising_tone_deduct_score="0.000000" score_pattern="strict" skill_deduct_score="0.000000" standard_score="4.364850" stress_deduct_score="0.000000" total_score="4.482932" word_count="59" words_per_min="186.315796">
+                  <sentence accuracy_score="4.426810" beg_pos="0" content="the majority of my time on the web involves looking up technical computer information, which i use for teaching microsoft application classes and providing technical advice at work" end_pos="1021" fluency_score="4.668747" index="0" standard_score="4.436888" total_score="4.501407" word_count="28">
+                      <word beg_pos="106" content="the" dp_message="0" end_pos="125" global_index="0" index="0" property="0" total_score="4.793491">
+                          <syll beg_pos="106" content="dh ax" end_pos="125" serr_msg="0" syll_accent="0" syll_score="4.953774">
+                              <phone beg_pos="106" content="dh" end_pos="119" first_best="dh" first_best_noself="n" gwpp="-0.014971"></phone>
+                              <phone beg_pos="119" content="ax" end_pos="125" first_best="ax" first_best_noself="ey" gwpp="-0.003638"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="125" content="majority" dp_message="0" end_pos="176" global_index="1" index="1" property="0" total_score="4.767130">
+                          <syll beg_pos="125" content="m ax jh oo r ax t ih" end_pos="176" serr_msg="0" syll_accent="0" syll_score="4.796107">
+                              <phone beg_pos="125" content="m" end_pos="133" first_best="m" first_best_noself="v" gwpp="-0.000486"></phone>
+                              <phone beg_pos="133" content="ax" end_pos="139" first_best="ax" first_best_noself="oo" gwpp="-0.015338"></phone>
+                              <phone beg_pos="139" content="jh" end_pos="149" first_best="jh" first_best_noself="zh" gwpp="-0.009365"></phone>
+                              <phone beg_pos="149" content="oo" end_pos="154" first_best="oo" first_best_noself="aa" gwpp="-0.198355"></phone>
+                              <phone beg_pos="154" content="r" end_pos="160" first_best="r" first_best_noself="l" gwpp="-0.034152"></phone>
+                              <phone beg_pos="160" content="ax" end_pos="165" first_best="ax" first_best_noself="ih" gwpp="-0.028983"></phone>
+                              <phone beg_pos="165" content="t" end_pos="171" first_best="t" first_best_noself="jh" gwpp="-0.058539"></phone>
+                              <phone beg_pos="171" content="ih" end_pos="176" first_best="ih" first_best_noself="ax" gwpp="-0.002280"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="176" content="of" dp_message="0" end_pos="184" global_index="2" index="2" property="0" total_score="4.299885">
+                          <syll beg_pos="176" content="ax v" end_pos="184" serr_msg="0" syll_accent="0" syll_score="4.995188">
+                              <phone beg_pos="176" content="ax" end_pos="179" first_best="ax" first_best_noself="ay" gwpp="-0.000657"></phone>
+                              <phone beg_pos="179" content="v" end_pos="184" first_best="v" first_best_noself="z" gwpp="-0.001269"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="184" content="my" dp_message="0" end_pos="204" global_index="3" index="3" property="0" total_score="4.896194">
+                          <syll beg_pos="184" content="m ay" end_pos="204" serr_msg="0" syll_accent="0" syll_score="4.996871">
+                              <phone beg_pos="184" content="m" end_pos="194" first_best="m" first_best_noself="b" gwpp="-0.000541"></phone>
+                              <phone beg_pos="194" content="ay" end_pos="204" first_best="ay" first_best_noself="ae" gwpp="-0.000712"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="204" content="time" dp_message="0" end_pos="237" global_index="4" index="4" property="0" total_score="4.820027">
+                          <syll beg_pos="204" content="t ay m" end_pos="237" serr_msg="0" syll_accent="0" syll_score="4.969156">
+                              <phone beg_pos="204" content="t" end_pos="220" first_best="t" first_best_noself="ch" gwpp="-0.000918"></phone>
+                              <phone beg_pos="220" content="ay" end_pos="226" first_best="ay" first_best_noself="eh" gwpp="-0.014072"></phone>
+                              <phone beg_pos="226" content="m" end_pos="237" first_best="m" first_best_noself="n" gwpp="-0.003623"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="237" content="on" dp_message="0" end_pos="248" global_index="5" index="5" property="0" total_score="4.916122">
+                          <syll beg_pos="237" content="oo n" end_pos="248" serr_msg="0" syll_accent="0" syll_score="4.998367">
+                              <phone beg_pos="237" content="oo" end_pos="243" first_best="oo" first_best_noself="ah" gwpp="-0.000369"></phone>
+                              <phone beg_pos="243" content="n" end_pos="248" first_best="n" first_best_noself="m" gwpp="-0.000284"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="248" content="the" dp_message="0" end_pos="258" global_index="6" index="6" property="0" total_score="4.375941">
+                          <syll beg_pos="248" content="dh ax" end_pos="258" serr_msg="0" syll_accent="0" syll_score="4.997344">
+                              <phone beg_pos="248" content="dh" end_pos="251" first_best="dh" first_best_noself="d" gwpp="-0.001044"></phone>
+                              <phone beg_pos="251" content="ax" end_pos="258" first_best="ax" first_best_noself="ar" gwpp="-0.000019"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="258" content="web" dp_message="0" end_pos="287" global_index="7" index="7" property="0" total_score="4.766703">
+                          <syll beg_pos="258" content="w eh b" end_pos="287" serr_msg="0" syll_accent="0" syll_score="4.063569">
+                              <phone beg_pos="258" content="w" end_pos="267" first_best="w" first_best_noself="v" gwpp="-0.001137"></phone>
+                              <phone beg_pos="267" content="eh" end_pos="282" first_best="eh" first_best_noself="ay" gwpp="-0.000907"></phone>
+                              <phone beg_pos="282" content="b" end_pos="287" first_best="p" first_best_noself="p" gwpp="-0.820560"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="287" content="involves" dp_message="0" end_pos="336" global_index="8" index="8" property="0" total_score="4.406965">
+                          <syll beg_pos="287" content="ih n v oo l v z" end_pos="336" serr_msg="0" syll_accent="0" syll_score="4.543642">
+                              <phone beg_pos="287" content="ih" end_pos="295" first_best="ih" first_best_noself="eh" gwpp="-0.002468"></phone>
+                              <phone beg_pos="295" content="n" end_pos="303" first_best="n" first_best_noself="t" gwpp="-0.000529"></phone>
+                              <phone beg_pos="303" content="v" end_pos="311" first_best="v" first_best_noself="b" gwpp="-0.000942"></phone>
+                              <phone beg_pos="311" content="oo" end_pos="317" first_best="oo" first_best_noself="ow" gwpp="-0.000456"></phone>
+                              <phone beg_pos="317" content="l" end_pos="320" first_best="l" first_best_noself="t" gwpp="-0.000432"></phone>
+                              <phone beg_pos="320" content="v" end_pos="330" first_best="v" first_best_noself="b" gwpp="-0.001960"></phone>
+                              <phone beg_pos="330" content="z" end_pos="336" first_best="s" first_best_noself="s" gwpp="-2.098948"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="336" content="looking" dp_message="0" end_pos="367" global_index="9" index="9" property="0" total_score="4.482243">
+                          <syll beg_pos="336" content="l uh k ih ng" end_pos="367" serr_msg="0" syll_accent="0" syll_score="4.343267">
+                              <phone beg_pos="336" content="l" end_pos="344" first_best="d" first_best_noself="d" gwpp="-2.326734"></phone>
+                              <phone beg_pos="344" content="uh" end_pos="350" first_best="uh" first_best_noself="ow" gwpp="-0.022778"></phone>
+                              <phone beg_pos="350" content="k" end_pos="356" first_best="k" first_best_noself="t" gwpp="-0.000837"></phone>
+                              <phone beg_pos="356" content="ih" end_pos="361" first_best="ih" first_best_noself="ax" gwpp="-0.000635"></phone>
+                              <phone beg_pos="361" content="ng" end_pos="367" first_best="ng" first_best_noself="t" gwpp="-0.000621"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="367" content="up" dp_message="0" end_pos="377" global_index="10" index="10" property="0" total_score="4.141471">
+                          <syll beg_pos="367" content="ah p" end_pos="377" serr_msg="0" syll_accent="0" syll_score="3.911594">
+                              <phone beg_pos="367" content="ah" end_pos="370" first_best="ah" first_best_noself="oo" gwpp="-0.090491"></phone>
+                              <phone beg_pos="370" content="p" end_pos="377" first_best="p" first_best_noself="b" gwpp="-0.429007"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="377" content="technical" dp_message="0" end_pos="421" global_index="11" index="11" property="0" total_score="4.599946">
+                          <syll beg_pos="377" content="t eh k n ih k ax l" end_pos="421" serr_msg="0" syll_accent="0" syll_score="4.977499">
+                              <phone beg_pos="377" content="t" end_pos="385" first_best="t" first_best_noself="ch" gwpp="-0.013952"></phone>
+                              <phone beg_pos="385" content="eh" end_pos="392" first_best="eh" first_best_noself="aa" gwpp="-0.014088"></phone>
+                              <phone beg_pos="392" content="k" end_pos="399" first_best="k" first_best_noself="g" gwpp="-0.000649"></phone>
+                              <phone beg_pos="399" content="n" end_pos="404" first_best="n" first_best_noself="t" gwpp="-0.000556"></phone>
+                              <phone beg_pos="404" content="ih" end_pos="409" first_best="ih" first_best_noself="ax" gwpp="-0.000890"></phone>
+                              <phone beg_pos="409" content="k" end_pos="414" first_best="k" first_best_noself="ng" gwpp="-0.001091"></phone>
+                              <phone beg_pos="414" content="ax" end_pos="417" first_best="ax" first_best_noself="oo" gwpp="-0.000721"></phone>
+                              <phone beg_pos="417" content="l" end_pos="421" first_best="l" first_best_noself="v" gwpp="-0.004261"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="421" content="computer" dp_message="0" end_pos="460" global_index="12" index="12" property="0" total_score="4.820409">
+                          <syll beg_pos="421" content="k ax m p y uw t ax" end_pos="460" serr_msg="0" syll_accent="0" syll_score="4.825718">
+                              <phone beg_pos="421" content="k" end_pos="425" first_best="k" first_best_noself="p" gwpp="-0.018675"></phone>
+                              <phone beg_pos="425" content="ax" end_pos="429" first_best="ax" first_best_noself="oo" gwpp="-0.000213"></phone>
+                              <phone beg_pos="429" content="m" end_pos="434" first_best="m" first_best_noself="n" gwpp="-0.000488"></phone>
+                              <phone beg_pos="434" content="p" end_pos="441" first_best="p" first_best_noself="t" gwpp="-0.000296"></phone>
+                              <phone beg_pos="441" content="y" end_pos="446" first_best="y" first_best_noself="ch" gwpp="-0.000220"></phone>
+                              <phone beg_pos="446" content="uw" end_pos="450" first_best="uw" first_best_noself="ax" gwpp="-0.000532"></phone>
+                              <phone beg_pos="450" content="t" end_pos="456" first_best="t" first_best_noself="ch" gwpp="-0.001760"></phone>
+                              <phone beg_pos="456" content="ax" end_pos="460" first_best="ax" first_best_noself="uw" gwpp="-0.296848"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="460" content="information" dp_message="0" end_pos="518" global_index="13" index="13" property="12" total_score="4.731728">
+                          <syll beg_pos="460" content="ih n f ax m ey sh ax n" end_pos="518" serr_msg="0" syll_accent="0" syll_score="4.994649">
+                              <phone beg_pos="460" content="ih" end_pos="465" first_best="ih" first_best_noself="ae" gwpp="-0.000760"></phone>
+                              <phone beg_pos="465" content="n" end_pos="469" first_best="n" first_best_noself="m" gwpp="-0.000639"></phone>
+                              <phone beg_pos="469" content="f" end_pos="473" first_best="f" first_best_noself="v" gwpp="-0.003866"></phone>
+                              <phone beg_pos="473" content="ax" end_pos="478" first_best="ax" first_best_noself="ow" gwpp="-0.000136"></phone>
+                              <phone beg_pos="478" content="m" end_pos="486" first_best="m" first_best_noself="n" gwpp="-0.002189"></phone>
+                              <phone beg_pos="486" content="ey" end_pos="500" first_best="ey" first_best_noself="ih" gwpp="-0.000602"></phone>
+                              <phone beg_pos="500" content="sh" end_pos="510" first_best="sh" first_best_noself="zh" gwpp="-0.001065"></phone>
+                              <phone beg_pos="510" content="ax" end_pos="515" first_best="ax" first_best_noself="ih" gwpp="-0.000004"></phone>
+                              <phone beg_pos="515" content="n" end_pos="518" first_best="n" first_best_noself="z" gwpp="-0.000381"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="518" content="which" dp_message="0" end_pos="541" global_index="14" index="14" property="0" total_score="4.903440">
+                          <syll beg_pos="518" content="w ih ch" end_pos="541" serr_msg="0" syll_accent="0" syll_score="4.979659">
+                              <phone beg_pos="518" content="w" end_pos="525" first_best="w" first_best_noself="r" gwpp="-0.000581"></phone>
+                              <phone beg_pos="525" content="ih" end_pos="532" first_best="ih" first_best_noself="ey" gwpp="-0.000469"></phone>
+                              <phone beg_pos="532" content="ch" end_pos="541" first_best="ch" first_best_noself="dh" gwpp="-0.011218"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="541" content="i" dp_message="0" end_pos="549" global_index="15" index="15" property="0" total_score="4.297036">
+                          <syll beg_pos="541" content="ay" end_pos="549" serr_msg="0" syll_accent="0" syll_score="1.839397">
+                              <phone beg_pos="541" content="ay" end_pos="549" first_best="aa" first_best_noself="aa" gwpp="-1.171446"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="549" content="use" dp_message="0" end_pos="586" global_index="16" index="16" property="0" total_score="4.905564">
+                          <syll beg_pos="549" content="y uw s" end_pos="586" serr_msg="0" syll_accent="0" syll_score="4.989010">
+                              <phone beg_pos="549" content="y" end_pos="566" first_best="y" first_best_noself="r" gwpp="-0.000808"></phone>
+                              <phone beg_pos="566" content="uw" end_pos="578" first_best="uw" first_best_noself="ah" gwpp="-0.000644"></phone>
+                              <phone beg_pos="578" content="s" end_pos="586" first_best="s" first_best_noself="z" gwpp="-0.005156"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="586" content="for" dp_message="0" end_pos="605" global_index="17" index="17" property="0" total_score="4.783788">
+                          <syll beg_pos="586" content="f ao" end_pos="605" serr_msg="0" syll_accent="0" syll_score="4.594134">
+                              <phone beg_pos="586" content="f" end_pos="596" first_best="f" first_best_noself="v" gwpp="-0.001368"></phone>
+                              <phone beg_pos="596" content="ao" end_pos="605" first_best="ao" first_best_noself="er" gwpp="-0.175520"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="605" content="teaching" dp_message="0" end_pos="637" global_index="18" index="18" property="0" total_score="4.592107">
+                          <syll beg_pos="605" content="t iy ch ih ng" end_pos="637" serr_msg="0" syll_accent="0" syll_score="4.991479">
+                              <phone beg_pos="605" content="t" end_pos="614" first_best="t" first_best_noself="ch" gwpp="-0.002363"></phone>
+                              <phone beg_pos="614" content="iy" end_pos="621" first_best="iy" first_best_noself="uw" gwpp="-0.000271"></phone>
+                              <phone beg_pos="621" content="ch" end_pos="630" first_best="ch" first_best_noself="t" gwpp="-0.000471"></phone>
+                              <phone beg_pos="630" content="ih" end_pos="634" first_best="ih" first_best_noself="ax" gwpp="-0.004361"></phone>
+                              <phone beg_pos="634" content="ng" end_pos="637" first_best="ng" first_best_noself="d" gwpp="-0.001068"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="637" content="microsoft" dp_message="0" end_pos="697" global_index="19" index="19" property="0" total_score="4.441432">
+                          <syll beg_pos="637" content="m ay k r ow s ao f t" end_pos="697" serr_msg="0" syll_accent="0" syll_score="4.156218">
+                              <phone beg_pos="637" content="m" end_pos="644" first_best="m" first_best_noself="b" gwpp="-0.000653"></phone>
+                              <phone beg_pos="644" content="ay" end_pos="650" first_best="ay" first_best_noself="aa" gwpp="-0.007984"></phone>
+                              <phone beg_pos="650" content="k" end_pos="659" first_best="k" first_best_noself="g" gwpp="-0.000871"></phone>
+                              <phone beg_pos="659" content="r" end_pos="663" first_best="r" first_best_noself="l" gwpp="-0.001374"></phone>
+                              <phone beg_pos="663" content="ow" end_pos="667" first_best="ax" first_best_noself="ax" gwpp="-1.088569"></phone>
+                              <phone beg_pos="667" content="s" end_pos="677" first_best="s" first_best_noself="z" gwpp="-0.254344"></phone>
+                              <phone beg_pos="677" content="ao" end_pos="684" first_best="ao" first_best_noself="aa" gwpp="-0.009853"></phone>
+                              <phone beg_pos="684" content="f" end_pos="691" first_best="f" first_best_noself="b" gwpp="-0.009383"></phone>
+                              <phone beg_pos="691" content="t" end_pos="697" first_best="dh" first_best_noself="dh" gwpp="-5.705253"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="697" content="application" dp_message="0" end_pos="751" global_index="20" index="20" property="0" total_score="4.661425">
+                          <syll beg_pos="697" content="ax p l ih k ey sh ax n" end_pos="751" serr_msg="0" syll_accent="0" syll_score="4.860582">
+                              <phone beg_pos="697" content="ax" end_pos="702" first_best="ax" first_best_noself="oo" gwpp="-0.229317"></phone>
+                              <phone beg_pos="702" content="p" end_pos="710" first_best="p" first_best_noself="b" gwpp="-0.014658"></phone>
+                              <phone beg_pos="710" content="l" end_pos="713" first_best="l" first_best_noself="r" gwpp="-0.000804"></phone>
+                              <phone beg_pos="713" content="ih" end_pos="718" first_best="ih" first_best_noself="ax" gwpp="-0.025943"></phone>
+                              <phone beg_pos="718" content="k" end_pos="726" first_best="k" first_best_noself="t" gwpp="-0.001282"></phone>
+                              <phone beg_pos="726" content="ey" end_pos="735" first_best="ey" first_best_noself="ih" gwpp="-0.000371"></phone>
+                              <phone beg_pos="735" content="sh" end_pos="743" first_best="sh" first_best_noself="zh" gwpp="-0.001052"></phone>
+                              <phone beg_pos="743" content="ax" end_pos="747" first_best="ax" first_best_noself="ih" gwpp="-0.000078"></phone>
+                              <phone beg_pos="747" content="n" end_pos="751" first_best="n" first_best_noself="l" gwpp="-0.002285"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="751" content="classes" dp_message="0" end_pos="802" global_index="21" index="21" property="0" total_score="4.902070">
+                          <syll beg_pos="751" content="k l aa s ih z" end_pos="802" serr_msg="0" syll_accent="0" syll_score="4.990160">
+                              <phone beg_pos="751" content="k" end_pos="757" first_best="k" first_best_noself="p" gwpp="-0.001219"></phone>
+                              <phone beg_pos="757" content="l" end_pos="765" first_best="l" first_best_noself="r" gwpp="-0.000167"></phone>
+                              <phone beg_pos="765" content="aa" end_pos="774" first_best="aa" first_best_noself="ow" gwpp="-0.001169"></phone>
+                              <phone beg_pos="774" content="s" end_pos="783" first_best="s" first_best_noself="z" gwpp="-0.001226"></phone>
+                              <phone beg_pos="783" content="ih" end_pos="793" first_best="ih" first_best_noself="ax" gwpp="-0.006043"></phone>
+                              <phone beg_pos="793" content="z" end_pos="802" first_best="z" first_best_noself="s" gwpp="-0.002005"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="802" content="and" dp_message="0" end_pos="820" global_index="22" index="22" property="0" total_score="4.816922">
+                          <syll beg_pos="802" content="ae n d" end_pos="820" serr_msg="0" syll_accent="0" syll_score="4.995575">
+                              <phone beg_pos="802" content="ae" end_pos="811" first_best="ae" first_best_noself="ih" gwpp="-0.000020"></phone>
+                              <phone beg_pos="811" content="n" end_pos="815" first_best="n" first_best_noself="z" gwpp="-0.002062"></phone>
+                              <phone beg_pos="815" content="d" end_pos="820" first_best="d" first_best_noself="z" gwpp="-0.000575"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="820" content="providing" dp_message="0" end_pos="876" global_index="23" index="23" property="0" total_score="4.921968">
+                          <syll beg_pos="820" content="p r ax v ay d ih ng" end_pos="876" serr_msg="0" syll_accent="0" syll_score="4.982348">
+                              <phone beg_pos="820" content="p" end_pos="829" first_best="p" first_best_noself="k" gwpp="-0.000517"></phone>
+                              <phone beg_pos="829" content="r" end_pos="835" first_best="r" first_best_noself="l" gwpp="-0.000443"></phone>
+                              <phone beg_pos="835" content="ax" end_pos="840" first_best="ax" first_best_noself="ay" gwpp="-0.001085"></phone>
+                              <phone beg_pos="840" content="v" end_pos="845" first_best="v" first_best_noself="r" gwpp="-0.000473"></phone>
+                              <phone beg_pos="845" content="ay" end_pos="858" first_best="ay" first_best_noself="ih" gwpp="-0.000454"></phone>
+                              <phone beg_pos="858" content="d" end_pos="866" first_best="d" first_best_noself="dz" gwpp="-0.023444"></phone>
+                              <phone beg_pos="866" content="ih" end_pos="871" first_best="ih" first_best_noself="ax" gwpp="-0.001185"></phone>
+                              <phone beg_pos="871" content="ng" end_pos="876" first_best="ng" first_best_noself="m" gwpp="-0.000916"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="876" content="technical" dp_message="0" end_pos="923" global_index="24" index="24" property="0" total_score="4.869503">
+                          <syll beg_pos="876" content="t eh k n ih k ax l" end_pos="923" serr_msg="0" syll_accent="0" syll_score="4.997028">
+                              <phone beg_pos="876" content="t" end_pos="883" first_best="t" first_best_noself="k" gwpp="-0.000487"></phone>
+                              <phone beg_pos="883" content="eh" end_pos="890" first_best="eh" first_best_noself="oo" gwpp="-0.000854"></phone>
+                              <phone beg_pos="890" content="k" end_pos="896" first_best="k" first_best_noself="g" gwpp="-0.000852"></phone>
+                              <phone beg_pos="896" content="n" end_pos="902" first_best="n" first_best_noself="t" gwpp="-0.000382"></phone>
+                              <phone beg_pos="902" content="ih" end_pos="907" first_best="ih" first_best_noself="ax" gwpp="-0.000482"></phone>
+                              <phone beg_pos="907" content="k" end_pos="914" first_best="k" first_best_noself="g" gwpp="-0.000543"></phone>
+                              <phone beg_pos="914" content="ax" end_pos="919" first_best="ax" first_best_noself="oo" gwpp="-0.000076"></phone>
+                              <phone beg_pos="919" content="l" end_pos="923" first_best="l" first_best_noself="v" gwpp="-0.001082"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="923" content="advice" dp_message="0" end_pos="962" global_index="25" index="25" property="0" total_score="4.812252">
+                          <syll beg_pos="923" content="ax d v ay s" end_pos="962" serr_msg="0" syll_accent="0" syll_score="4.738427">
+                              <phone beg_pos="923" content="ax" end_pos="928" first_best="ax" first_best_noself="eh" gwpp="-0.010659"></phone>
+                              <phone beg_pos="928" content="d" end_pos="933" first_best="d" first_best_noself="t" gwpp="-0.000678"></phone>
+                              <phone beg_pos="933" content="v" end_pos="940" first_best="v" first_best_noself="b" gwpp="-0.000681"></phone>
+                              <phone beg_pos="940" content="ay" end_pos="951" first_best="ay" first_best_noself="ae" gwpp="-0.000509"></phone>
+                              <phone beg_pos="951" content="s" end_pos="962" first_best="s" first_best_noself="z" gwpp="-0.286488"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="962" content="at" dp_message="0" end_pos="977" global_index="26" index="26" property="0" total_score="4.858263">
+                          <syll beg_pos="962" content="ae t" end_pos="977" serr_msg="0" syll_accent="0" syll_score="4.980793">
+                              <phone beg_pos="962" content="ae" end_pos="969" first_best="ae" first_best_noself="ay" gwpp="-0.005934"></phone>
+                              <phone beg_pos="969" content="t" end_pos="977" first_best="t" first_best_noself="d" gwpp="-0.001768"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="977" content="work" dp_message="0" end_pos="1021" global_index="27" index="27" property="0" total_score="4.908800">
+                          <syll beg_pos="977" content="w er k" end_pos="1021" serr_msg="0" syll_accent="0" syll_score="4.981674">
+                              <phone beg_pos="977" content="w" end_pos="993" first_best="w" first_best_noself="v" gwpp="-0.000725"></phone>
+                              <phone beg_pos="993" content="er" end_pos="1003" first_best="er" first_best_noself="ao" gwpp="-0.009442"></phone>
+                              <phone beg_pos="1003" content="k" end_pos="1021" first_best="k" first_best_noself="d" gwpp="-0.000873"></phone>
+                          </syll>
+                      </word>
+                  </sentence>
+                  <sentence accuracy_score="4.446470" beg_pos="1021" content="outside of work, i really like following all aspects of the financial world, and the web has turned into a great resource for this hobby" end_pos="1821" fluency_score="4.656537" index="1" standard_score="4.405289" total_score="4.501254" word_count="25">
+                      <word beg_pos="1056" content="outside" dp_message="0" end_pos="1123" global_index="28" index="0" property="0" total_score="4.836047">
+                          <syll beg_pos="1056" content="aw t s ay d" end_pos="1123" serr_msg="0" syll_accent="0" syll_score="4.825368">
+                              <phone beg_pos="1056" content="aw" end_pos="1087" first_best="aw" first_best_noself="ae" gwpp="-0.003878"></phone>
+                              <phone beg_pos="1087" content="t" end_pos="1093" first_best="t" first_best_noself="d" gwpp="-0.002753"></phone>
+                              <phone beg_pos="1093" content="s" end_pos="1104" first_best="s" first_best_noself="dz" gwpp="-0.000798"></phone>
+                              <phone beg_pos="1104" content="ay" end_pos="1113" first_best="ay" first_best_noself="eh" gwpp="-0.003546"></phone>
+                              <phone beg_pos="1113" content="d" end_pos="1123" first_best="d" first_best_noself="dz" gwpp="-0.178738"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1123" content="of" dp_message="0" end_pos="1137" global_index="29" index="1" property="0" total_score="4.821854">
+                          <syll beg_pos="1123" content="ax v" end_pos="1137" serr_msg="0" syll_accent="0" syll_score="4.991651">
+                              <phone beg_pos="1123" content="ax" end_pos="1127" first_best="ax" first_best_noself="ay" gwpp="-0.002261"></phone>
+                              <phone beg_pos="1127" content="v" end_pos="1137" first_best="v" first_best_noself="f" gwpp="-0.001082"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1137" content="work" dp_message="0" end_pos="1174" global_index="30" index="2" property="12" total_score="4.860937">
+                          <syll beg_pos="1137" content="w er k" end_pos="1174" serr_msg="0" syll_accent="0" syll_score="4.980533">
+                              <phone beg_pos="1137" content="w" end_pos="1155" first_best="w" first_best_noself="v" gwpp="-0.000219"></phone>
+                              <phone beg_pos="1155" content="er" end_pos="1165" first_best="er" first_best_noself="ao" gwpp="-0.009011"></phone>
+                              <phone beg_pos="1165" content="k" end_pos="1174" first_best="k" first_best_noself="d" gwpp="-0.002494"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1174" content="i" dp_message="0" end_pos="1182" global_index="31" index="3" property="0" total_score="4.819893">
+                          <syll beg_pos="1174" content="ay" end_pos="1182" serr_msg="0" syll_accent="0" syll_score="4.995290">
+                              <phone beg_pos="1174" content="ay" end_pos="1182" first_best="ay" first_best_noself="aa" gwpp="-0.000942"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1182" content="really" dp_message="0" end_pos="1215" global_index="32" index="4" property="0" total_score="4.998779">
+                          <syll beg_pos="1182" content="r ir l ih" end_pos="1215" serr_msg="0" syll_accent="0" syll_score="4.998557">
+                              <phone beg_pos="1182" content="r" end_pos="1196" first_best="r" first_best_noself="v" gwpp="-0.000228"></phone>
+                              <phone beg_pos="1196" content="ir" end_pos="1204" first_best="ir" first_best_noself="iy" gwpp="-0.000313"></phone>
+                              <phone beg_pos="1204" content="l" end_pos="1209" first_best="l" first_best_noself="d" gwpp="-0.000340"></phone>
+                              <phone beg_pos="1209" content="ih" end_pos="1215" first_best="ih" first_best_noself="ir" gwpp="-0.000274"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1215" content="like" dp_message="0" end_pos="1240" global_index="33" index="5" property="0" total_score="4.903366">
+                          <syll beg_pos="1215" content="l ay k" end_pos="1240" serr_msg="0" syll_accent="0" syll_score="4.996945">
+                              <phone beg_pos="1215" content="l" end_pos="1222" first_best="l" first_best_noself="n" gwpp="-0.000335"></phone>
+                              <phone beg_pos="1222" content="ay" end_pos="1230" first_best="ay" first_best_noself="ae" gwpp="-0.001034"></phone>
+                              <phone beg_pos="1230" content="k" end_pos="1240" first_best="k" first_best_noself="f" gwpp="-0.000465"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1240" content="following" dp_message="0" end_pos="1280" global_index="34" index="6" property="0" total_score="4.495486">
+                          <syll beg_pos="1240" content="f oo l ow ih ng" end_pos="1280" serr_msg="0" syll_accent="0" syll_score="4.944745">
+                              <phone beg_pos="1240" content="f" end_pos="1251" first_best="f" first_best_noself="v" gwpp="-0.007105"></phone>
+                              <phone beg_pos="1251" content="oo" end_pos="1258" first_best="oo" first_best_noself="uh" gwpp="-0.034792"></phone>
+                              <phone beg_pos="1258" content="l" end_pos="1263" first_best="l" first_best_noself="dh" gwpp="-0.006828"></phone>
+                              <phone beg_pos="1263" content="ow" end_pos="1266" first_best="ow" first_best_noself="ih" gwpp="-0.015754"></phone>
+                              <phone beg_pos="1266" content="ih" end_pos="1271" first_best="ih" first_best_noself="ax" gwpp="-0.001426"></phone>
+                              <phone beg_pos="1271" content="ng" end_pos="1280" first_best="ng" first_best_noself="l" gwpp="-0.001173"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1280" content="all" dp_message="0" end_pos="1306" global_index="35" index="7" property="0" total_score="4.795828">
+                          <syll beg_pos="1280" content="ao l" end_pos="1306" serr_msg="0" syll_accent="0" syll_score="4.977333">
+                              <phone beg_pos="1280" content="ao" end_pos="1293" first_best="ao" first_best_noself="oy" gwpp="-0.003287"></phone>
+                              <phone beg_pos="1293" content="l" end_pos="1306" first_best="l" first_best_noself="n" gwpp="-0.005802"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1306" content="aspects" dp_message="0" end_pos="1356" global_index="36" index="8" property="0" total_score="4.914625">
+                          <syll beg_pos="1306" content="ae s p eh k ts" end_pos="1356" serr_msg="0" syll_accent="0" syll_score="4.978943">
+                              <phone beg_pos="1306" content="ae" end_pos="1316" first_best="ae" first_best_noself="ao" gwpp="-0.001439"></phone>
+                              <phone beg_pos="1316" content="s" end_pos="1324" first_best="s" first_best_noself="z" gwpp="-0.001246"></phone>
+                              <phone beg_pos="1324" content="p" end_pos="1332" first_best="p" first_best_noself="b" gwpp="-0.002822"></phone>
+                              <phone beg_pos="1332" content="eh" end_pos="1339" first_best="eh" first_best_noself="er" gwpp="-0.000559"></phone>
+                              <phone beg_pos="1339" content="k" end_pos="1349" first_best="k" first_best_noself="ts" gwpp="-0.000435"></phone>
+                              <phone beg_pos="1349" content="ts" end_pos="1356" first_best="ts" first_best_noself="t" gwpp="-0.018953"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1356" content="of" dp_message="0" end_pos="1369" global_index="37" index="9" property="0" total_score="4.839369">
+                          <syll beg_pos="1356" content="ax v" end_pos="1369" serr_msg="0" syll_accent="0" syll_score="4.990473">
+                              <phone beg_pos="1356" content="ax" end_pos="1362" first_best="ax" first_best_noself="ao" gwpp="-0.000726"></phone>
+                              <phone beg_pos="1362" content="v" end_pos="1369" first_best="v" first_best_noself="f" gwpp="-0.003089"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1369" content="the" dp_message="0" end_pos="1380" global_index="38" index="10" property="0" total_score="4.838322">
+                          <syll beg_pos="1369" content="dh ax" end_pos="1380" serr_msg="0" syll_accent="0" syll_score="4.998143">
+                              <phone beg_pos="1369" content="dh" end_pos="1374" first_best="dh" first_best_noself="d" gwpp="-0.000597"></phone>
+                              <phone beg_pos="1374" content="ax" end_pos="1380" first_best="ax" first_best_noself="ar" gwpp="-0.000146"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1380" content="financial" dp_message="0" end_pos="1435" global_index="39" index="11" property="0" total_score="4.971447">
+                          <syll beg_pos="1380" content="f ay n ae n sh ax l" end_pos="1435" serr_msg="0" syll_accent="0" syll_score="4.991073">
+                              <phone beg_pos="1380" content="f" end_pos="1388" first_best="f" first_best_noself="v" gwpp="-0.001428"></phone>
+                              <phone beg_pos="1388" content="ay" end_pos="1397" first_best="ay" first_best_noself="ah" gwpp="-0.000834"></phone>
+                              <phone beg_pos="1397" content="n" end_pos="1406" first_best="n" first_best_noself="t" gwpp="-0.000448"></phone>
+                              <phone beg_pos="1406" content="ae" end_pos="1411" first_best="ae" first_best_noself="ih" gwpp="-0.000002"></phone>
+                              <phone beg_pos="1411" content="n" end_pos="1417" first_best="n" first_best_noself="k" gwpp="-0.000362"></phone>
+                              <phone beg_pos="1417" content="sh" end_pos="1425" first_best="sh" first_best_noself="s" gwpp="-0.000385"></phone>
+                              <phone beg_pos="1425" content="ax" end_pos="1431" first_best="ax" first_best_noself="ir" gwpp="-0.000000"></phone>
+                              <phone beg_pos="1431" content="l" end_pos="1435" first_best="l" first_best_noself="n" gwpp="-0.010883"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1435" content="world" dp_message="0" end_pos="1489" global_index="40" index="12" property="12" total_score="4.604746">
+                          <syll beg_pos="1435" content="w er l d" end_pos="1489" serr_msg="0" syll_accent="0" syll_score="4.267810">
+                              <phone beg_pos="1435" content="w" end_pos="1445" first_best="w" first_best_noself="b" gwpp="-0.089283"></phone>
+                              <phone beg_pos="1445" content="er" end_pos="1451" first_best="er" first_best_noself="ow" gwpp="-0.530054"></phone>
+                              <phone beg_pos="1451" content="l" end_pos="1462" first_best="l" first_best_noself="b" gwpp="-0.003000"></phone>
+                              <phone beg_pos="1462" content="d" end_pos="1489" first_best="d" first_best_noself="t" gwpp="-0.089834"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1489" content="and" dp_message="0" end_pos="1519" global_index="41" index="13" property="0" total_score="4.705664">
+                          <syll beg_pos="1489" content="ae n d" end_pos="1519" serr_msg="0" syll_accent="0" syll_score="4.989862">
+                              <phone beg_pos="1489" content="ae" end_pos="1507" first_best="ae" first_best_noself="ih" gwpp="-0.002457"></phone>
+                              <phone beg_pos="1507" content="n" end_pos="1511" first_best="n" first_best_noself="t" gwpp="-0.002198"></phone>
+                              <phone beg_pos="1511" content="d" end_pos="1519" first_best="d" first_best_noself="t" gwpp="-0.001435"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1519" content="the" dp_message="0" end_pos="1532" global_index="42" index="14" property="0" total_score="4.827774">
+                          <syll beg_pos="1519" content="dh ax" end_pos="1532" serr_msg="0" syll_accent="0" syll_score="4.997461">
+                              <phone beg_pos="1519" content="dh" end_pos="1524" first_best="dh" first_best_noself="d" gwpp="-0.000965"></phone>
+                              <phone beg_pos="1524" content="ax" end_pos="1532" first_best="ax" first_best_noself="ar" gwpp="-0.000051"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1532" content="web" dp_message="0" end_pos="1563" global_index="43" index="15" property="0" total_score="4.756167">
+                          <syll beg_pos="1532" content="w eh b" end_pos="1563" serr_msg="0" syll_accent="0" syll_score="4.521424">
+                              <phone beg_pos="1532" content="w" end_pos="1541" first_best="w" first_best_noself="v" gwpp="-0.002683"></phone>
+                              <phone beg_pos="1541" content="eh" end_pos="1559" first_best="eh" first_best_noself="ay" gwpp="-0.001826"></phone>
+                              <phone beg_pos="1559" content="b" end_pos="1563" first_best="b" first_best_noself="p" gwpp="-0.332180"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1563" content="has" dp_message="0" end_pos="1595" global_index="44" index="16" property="0" total_score="4.883116">
+                          <syll beg_pos="1563" content="hh ae z" end_pos="1595" serr_msg="0" syll_accent="0" syll_score="4.994832">
+                              <phone beg_pos="1563" content="hh" end_pos="1575" first_best="hh" first_best_noself="p" gwpp="-0.000707"></phone>
+                              <phone beg_pos="1575" content="ae" end_pos="1584" first_best="ae" first_best_noself="ih" gwpp="-0.000040"></phone>
+                              <phone beg_pos="1584" content="z" end_pos="1595" first_best="z" first_best_noself="d" gwpp="-0.002356"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1595" content="turned" dp_message="0" end_pos="1627" global_index="45" index="17" property="0" total_score="4.752491">
+                          <syll beg_pos="1595" content="t er n d" end_pos="1627" serr_msg="0" syll_accent="0" syll_score="4.528085">
+                              <phone beg_pos="1595" content="t" end_pos="1604" first_best="t" first_best_noself="tr" gwpp="-0.024679"></phone>
+                              <phone beg_pos="1604" content="er" end_pos="1612" first_best="er" first_best_noself="eh" gwpp="-0.428318"></phone>
+                              <phone beg_pos="1612" content="n" end_pos="1619" first_best="n" first_best_noself="m" gwpp="-0.001265"></phone>
+                              <phone beg_pos="1619" content="d" end_pos="1627" first_best="d" first_best_noself="t" gwpp="-0.003502"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1627" content="into" dp_message="0" end_pos="1654" global_index="46" index="18" property="0" total_score="4.758363">
+                          <syll beg_pos="1627" content="ih n t uh" end_pos="1654" serr_msg="0" syll_accent="0" syll_score="4.768768">
+                              <phone beg_pos="1627" content="ih" end_pos="1632" first_best="ih" first_best_noself="eh" gwpp="-0.003776"></phone>
+                              <phone beg_pos="1632" content="n" end_pos="1641" first_best="n" first_best_noself="d" gwpp="-0.000763"></phone>
+                              <phone beg_pos="1641" content="t" end_pos="1649" first_best="t" first_best_noself="jh" gwpp="-0.197233"></phone>
+                              <phone beg_pos="1649" content="uh" end_pos="1654" first_best="uh" first_best_noself="ur" gwpp="-0.001455"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1654" content="a" dp_message="0" end_pos="1661" global_index="47" index="19" property="0" total_score="4.745052">
+                          <syll beg_pos="1654" content="ax" end_pos="1661" serr_msg="0" syll_accent="0" syll_score="4.907133">
+                              <phone beg_pos="1654" content="ax" end_pos="1661" first_best="ax" first_best_noself="uh" gwpp="-0.018748"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1661" content="great" dp_message="0" end_pos="1688" global_index="48" index="20" property="0" total_score="4.850164">
+                          <syll beg_pos="1661" content="g r ey t" end_pos="1688" serr_msg="0" syll_accent="0" syll_score="4.951400">
+                              <phone beg_pos="1661" content="g" end_pos="1669" first_best="g" first_best_noself="b" gwpp="-0.000908"></phone>
+                              <phone beg_pos="1669" content="r" end_pos="1676" first_best="r" first_best_noself="w" gwpp="-0.000632"></phone>
+                              <phone beg_pos="1676" content="ey" end_pos="1682" first_best="ey" first_best_noself="iy" gwpp="-0.000939"></phone>
+                              <phone beg_pos="1682" content="t" end_pos="1688" first_best="t" first_best_noself="jh" gwpp="-0.037081"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1688" content="resource" dp_message="0" end_pos="1732" global_index="49" index="21" property="0" total_score="4.604792">
+                          <syll beg_pos="1688" content="r ih s ao s" end_pos="1732" serr_msg="0" syll_accent="0" syll_score="4.231897">
+                              <phone beg_pos="1688" content="r" end_pos="1695" first_best="r" first_best_noself="w" gwpp="-0.000877"></phone>
+                              <phone beg_pos="1695" content="ih" end_pos="1703" first_best="ih" first_best_noself="ax" gwpp="-0.000815"></phone>
+                              <phone beg_pos="1703" content="s" end_pos="1713" first_best="s" first_best_noself="z" gwpp="-0.143653"></phone>
+                              <phone beg_pos="1713" content="ao" end_pos="1725" first_best="ao" first_best_noself="aw" gwpp="-0.000480"></phone>
+                              <phone beg_pos="1725" content="s" end_pos="1732" first_best="ts" first_best_noself="ts" gwpp="-1.662651"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1732" content="for" dp_message="0" end_pos="1750" global_index="50" index="22" property="0" total_score="4.861471">
+                          <syll beg_pos="1732" content="f ao" end_pos="1750" serr_msg="0" syll_accent="0" syll_score="4.985083">
+                              <phone beg_pos="1732" content="f" end_pos="1742" first_best="f" first_best_noself="p" gwpp="-0.000862"></phone>
+                              <phone beg_pos="1742" content="ao" end_pos="1750" first_best="ao" first_best_noself="ax" gwpp="-0.005118"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1750" content="this" dp_message="0" end_pos="1771" global_index="51" index="23" property="0" total_score="4.748588">
+                          <syll beg_pos="1750" content="dh ih s" end_pos="1771" serr_msg="0" syll_accent="0" syll_score="4.512252">
+                              <phone beg_pos="1750" content="dh" end_pos="1756" first_best="dh" first_best_noself="d" gwpp="-0.007031"></phone>
+                              <phone beg_pos="1756" content="ih" end_pos="1763" first_best="ih" first_best_noself="ow" gwpp="-0.004304"></phone>
+                              <phone beg_pos="1763" content="s" end_pos="1771" first_best="s" first_best_noself="z" gwpp="-0.330378"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1771" content="hobby" dp_message="0" end_pos="1821" global_index="52" index="24" property="0" total_score="4.801078">
+                          <syll beg_pos="1771" content="hh oo b ih" end_pos="1821" serr_msg="0" syll_accent="0" syll_score="4.985533">
+                              <phone beg_pos="1771" content="hh" end_pos="1780" first_best="hh" first_best_noself="f" gwpp="-0.000472"></phone>
+                              <phone beg_pos="1780" content="oo" end_pos="1792" first_best="oo" first_best_noself="ax" gwpp="-0.003512"></phone>
+                              <phone beg_pos="1792" content="b" end_pos="1802" first_best="b" first_best_noself="p" gwpp="-0.001205"></phone>
+                              <phone beg_pos="1802" content="ih" end_pos="1821" first_best="ih" first_best_noself="ey" gwpp="-0.006411"></phone>
+                          </syll>
+                      </word>
+                  </sentence>
+                  <sentence accuracy_score="4.362299" beg_pos="1821" content="i can&apos;t imagine being without it" end_pos="2824" fluency_score="4.599494" index="2" standard_score="4.235140" total_score="4.408026" word_count="6">
+                      <word beg_pos="1843" content="i" dp_message="0" end_pos="1860" global_index="53" index="0" property="0" total_score="3.606641">
+                          <syll beg_pos="1843" content="ay" end_pos="1860" serr_msg="0" syll_accent="0" syll_score="1.839397">
+                              <phone beg_pos="1843" content="ay" end_pos="1860" first_best="ax" first_best_noself="ax" gwpp="-1.500919"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1860" content="can&apos;t" dp_message="0" end_pos="1884" global_index="54" index="1" property="0" total_score="4.625895">
+                          <syll beg_pos="1860" content="k aa n t" end_pos="1884" serr_msg="0" syll_accent="0" syll_score="4.636344">
+                              <phone beg_pos="1860" content="k" end_pos="1869" first_best="k" first_best_noself="m" gwpp="-0.002940"></phone>
+                              <phone beg_pos="1869" content="aa" end_pos="1875" first_best="aa" first_best_noself="aw" gwpp="-0.331362"></phone>
+                              <phone beg_pos="1875" content="n" end_pos="1879" first_best="n" first_best_noself="m" gwpp="-0.001201"></phone>
+                              <phone beg_pos="1879" content="t" end_pos="1884" first_best="t" first_best_noself="hh" gwpp="-0.004746"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1884" content="imagine" dp_message="0" end_pos="1923" global_index="55" index="2" property="0" total_score="4.667467">
+                          <syll beg_pos="1884" content="ih m ae jh ih n" end_pos="1923" serr_msg="0" syll_accent="0" syll_score="4.835231">
+                              <phone beg_pos="1884" content="ih" end_pos="1889" first_best="ih" first_best_noself="uw" gwpp="-0.028306"></phone>
+                              <phone beg_pos="1889" content="m" end_pos="1899" first_best="m" first_best_noself="n" gwpp="-0.001207"></phone>
+                              <phone beg_pos="1899" content="ae" end_pos="1908" first_best="ae" first_best_noself="ih" gwpp="-0.003481"></phone>
+                              <phone beg_pos="1908" content="jh" end_pos="1915" first_best="jh" first_best_noself="ch" gwpp="-0.021042"></phone>
+                              <phone beg_pos="1915" content="ih" end_pos="1919" first_best="ih" first_best_noself="ax" gwpp="-0.134109"></phone>
+                              <phone beg_pos="1919" content="n" end_pos="1923" first_best="n" first_best_noself="m" gwpp="-0.018984"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1923" content="being" dp_message="0" end_pos="1944" global_index="56" index="3" property="0" total_score="4.296359">
+                          <syll beg_pos="1923" content="b iy ih ng" end_pos="1944" serr_msg="0" syll_accent="0" syll_score="4.549052">
+                              <phone beg_pos="1923" content="b" end_pos="1931" first_best="b" first_best_noself="p" gwpp="-0.020809"></phone>
+                              <phone beg_pos="1931" content="iy" end_pos="1936" first_best="iy" first_best_noself="ay" gwpp="-0.008279"></phone>
+                              <phone beg_pos="1936" content="ih" end_pos="1939" first_best="ih" first_best_noself="ey" gwpp="-0.056368"></phone>
+                              <phone beg_pos="1939" content="ng" end_pos="1944" first_best="ng" first_best_noself="d" gwpp="-0.324498"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1944" content="without" dp_message="0" end_pos="1980" global_index="57" index="4" property="0" total_score="4.886803">
+                          <syll beg_pos="1944" content="w ih dh aw t" end_pos="1980" serr_msg="0" syll_accent="0" syll_score="4.990175">
+                              <phone beg_pos="1944" content="w" end_pos="1949" first_best="w" first_best_noself="v" gwpp="-0.006447"></phone>
+                              <phone beg_pos="1949" content="ih" end_pos="1954" first_best="ih" first_best_noself="eh" gwpp="-0.000692"></phone>
+                              <phone beg_pos="1954" content="dh" end_pos="1965" first_best="dh" first_best_noself="d" gwpp="-0.000272"></phone>
+                              <phone beg_pos="1965" content="aw" end_pos="1971" first_best="aw" first_best_noself="ao" gwpp="-0.001132"></phone>
+                              <phone beg_pos="1971" content="t" end_pos="1980" first_best="t" first_best_noself="d" gwpp="-0.001306"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="1980" content="it" dp_message="0" end_pos="2006" global_index="58" index="5" property="0" total_score="4.672930">
+                          <syll beg_pos="1980" content="ih t" end_pos="2006" serr_msg="0" syll_accent="0" syll_score="4.749105">
+                              <phone beg_pos="1980" content="ih" end_pos="1992" first_best="ih" first_best_noself="ey" gwpp="-0.000876"></phone>
+                              <phone beg_pos="1992" content="t" end_pos="2006" first_best="t" first_best_noself="jh" gwpp="-0.104786"></phone>
+                          </syll>
+                      </word>
+                  </sentence>
+              </read_chapter>
+          </rec_paper>
+      </read_chapter>
+  </xml_result>

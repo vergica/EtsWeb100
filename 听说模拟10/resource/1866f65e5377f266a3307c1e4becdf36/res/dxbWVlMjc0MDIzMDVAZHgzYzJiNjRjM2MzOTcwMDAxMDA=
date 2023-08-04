@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="273" content="rec_paper" end_pos="475" except_info="0" is_rejected="false" keywords="to|score to" phone_score="2.755144" reject_type="0" total_score="2.322779">
+                  <sentence content="to to to " index="0">
+                      <word beg_pos="279" content="to" end_pos="330"></word>
+                      <word beg_pos="330" content="to" end_pos="371"></word>
+                      <word beg_pos="371" content="to" end_pos="413"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

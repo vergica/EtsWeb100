@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufk lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="83" content="rec_paper" end_pos="495" except_info="0" is_rejected="false" keywords="which course should take which course better|what course suitable which course better|should take class optional class which course better|which course better would you give advice course should take|which course better do you think should take as course|which course better how many courses choose" phone_score="4.769768" reject_type="0" total_score="2.397097">
+                  <sentence content="should i take an optional course what should i choose " index="0">
+                      <word beg_pos="97" content="should" end_pos="140"></word>
+                      <word beg_pos="140" content="i" end_pos="152"></word>
+                      <word beg_pos="152" content="take" end_pos="189"></word>
+                      <word beg_pos="189" content="an" end_pos="205"></word>
+                      <word beg_pos="205" content="optional" end_pos="251"></word>
+                      <word beg_pos="251" content="course" end_pos="303"></word>
+                      <word beg_pos="303" content="what" end_pos="376"></word>
+                      <word beg_pos="376" content="should" end_pos="407"></word>
+                      <word beg_pos="407" content="i" end_pos="418"></word>
+                      <word beg_pos="418" content="choose" end_pos="475"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufk>
+  </xml_result>

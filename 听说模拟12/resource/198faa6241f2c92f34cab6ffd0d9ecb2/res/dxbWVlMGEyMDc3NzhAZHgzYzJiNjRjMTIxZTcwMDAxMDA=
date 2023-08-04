@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="63" content="rec_paper" end_pos="170" except_info="0" is_rejected="false" keywords="thank you|you flattered me|thank you sweet|thanks" phone_score="5.000000" reject_type="0" total_score="4.938856">
+                  <sentence content="thank you " index="0">
+                      <word beg_pos="75" content="thank" end_pos="120"></word>
+                      <word beg_pos="120" content="you" end_pos="144"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

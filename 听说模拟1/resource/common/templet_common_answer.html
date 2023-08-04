@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>答案页</title>
+    <script src="js/flexible.js"></script>
+    <script src="js/polyfill.js"></script>
+    <link rel="stylesheet" href="css/answer.css">
+    <link rel="stylesheet" href="css/templet_common.css">
+    <link rel="stylesheet" href="css/templet_common_answer.css">
+</head>
+
+<body>
+    <div class="container none" :class="{isDwdContainer:isDwdContainer}" id="templateApp">
+        <div class="result_con" :class="hasHalfStarImg?'':'noHalfStarImg'">
+            <div class="score_con" :class="scoreRationColor"><span class="get_score" id="score" v-text="getScore"></span>分/<span class="all_score" id="total-score" v-text="allScore"></span>分</div>
+            <div class="star_con" :class="'star_level_'+scoreStarRationLevel">
+                <div class="star_img"></div>
+                <div class="star_img"></div>
+                <div class="star_img"></div>
+                <div class="star_img"></div>
+                <div class="star_img"></div>
+            </div>
+            <div class="dwd_score none">
+                <div class="dwd_item" id="dwdAccuracy">
+                    <div class="dwd_name">准确度</div>
+                    <div>
+                        <span class="dwd_flu"></span>
+                        <span class="dwd_fen">分</span>
+                    </div>
+                </div>
+                <div class="dwd_item" id="dwdFluency">
+                    <div class="dwd_name">流畅度</div>
+                    <div>
+                        <span class="dwd_flu"></span>
+                        <span class="dwd_fen">分</span>
+                    </div>
+                </div>
+                <div class="dwd_item" id="dwdIntegrity">
+                    <div class="dwd_name">完整度</div>
+                    <div>
+                        <span class="dwd_flu"></span>
+                        <span class="dwd_fen">分</span>
+                    </div>
+                </div>
+                <div class="dwd_item none" id="dwdStandard">
+                    <div class="dwd_name">标准度</div>
+                    <div>
+                        <span class="dwd_flu"></span>
+                        <span class="dwd_fen">分</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="audio_con none" v-if="questions.length>0">
+            <button class="stander_record" :id="questions[0]['info']['audio']" :data-path="getMaterialPath(0)" v-if="questions[0]['info']['audio']">
+                <img src="images/ans_record_icon.png" alt="录音" class="record_icon"><span>原音</span>
+            </button>
+            <button class="my_record" :id="questions[0]['info']['stid']" :data-path="getMaterialPath(0)">
+                <img src="images/ans_my_record.png" alt="我的录音" class="record_icon"><span>录音</span>
+            </button>
+        </div>
+        <div class="pd-container">
+            <div class="title" v-if="title!=''" v-html="formatString(title)"></div>
+            <div class="subtitle" v-if="subtitle!=''" v-html="formatString(subtitle)"></div>
+            <div class="description" v-if="description!=''" v-html="formatString(description)"></div>
+        </div>
+        <div class="dropdown_con pd-container" :class="dropdown_con_active?'active':''">
+            <div class="dropdown_title" v-if="dropdown_title!=''" v-html="formatString(dropdown_title)"></div>
+            <div class="dropdown_subtitle" v-if="dropdown_subtitle!=''" v-html="formatString(dropdown_subtitle)"></div>
+            <div class="dropdown_description" v-if="dropdown_description!=''" v-html="formatString(dropdown_description)"></div>
+            <div class="dropdown_icon" v-if="dropdown_title" @click="toggleDropdown"></div>
+            <div class="hint" v-if="hint" v-html="hint"></div>
+        </div>
+        <div class="content test_con">
+            <div class="questions" v-if="questions.length>0">
+                <div v-for="(question, index) in questions">
+                    <!-- 朗读题 -->
+                    <div class="pd-container" v-if="question.structure_type === 'collector.read'">
+                        <div class="question">
+                            <!-- 用户得分以及录音 -->
+                            <div class="q_score">
+                                <span class="q_score_title" v-html="(index+1)+'.'"></span>
+                                <span>(<span class="q_score_con"></span>)</span>
+                                <span class="record_icon user_record" :id="question.info.stid+'_1'" :data-path="getMaterialPath(index)"></span>
+                            </div>
+                            <!-- 原文text以及录音 -->
+                            <div class="recordText_con">
+                                <p class="">
+                                    <p class="inline-block" v-html="formatHtmlPContent(question.info.value,question.info.audio,index)"></p>
+                                </p>
+                                <!-- <p v-if="question.info.symbol" class="">
+                                    <p class="inline-block" v-html="question.info.symbol"></p>
+                                </p> -->
+                                <div class="content_img" v-if="question.info.image" @click="showBigImg(index,question.info.image)">
+                                    <img :src="getMaterialUrl(index,question.info.image)" alt="原文图片">
+                                    <div class="show_big_img_tip">查看大图</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 三问五答 角色扮演 情景问答 -->
+                    <div class="pd-container" v-if="question.structure_type === 'collector.3q5a' ||  question.structure_type === 'collector.role' ||  question.structure_type === 'collector.dialogue'">
+                        <div class="recordText_con">
+                            <p class="">
+                                <p class="inline-block" v-html="formatHtmlPContent(question.info.value, question.info.audio,index)"></p>
+                            </p>
+                            <div class="content_img" v-if="question.info.image" @click="showBigImg(index,question.info.image)">
+                                <img :src="getMaterialUrl(index,question.info.image)" alt="原文图片">
+                                <div class="show_big_img_tip">查看大图</div>
+                            </div>
+                        </div>
+                        <div class="info_questions pb20">
+                            <div class="info_question mt20 border_b pb20" v-for="(info_q, info_q_index) in question.info.question">
+                                <div class="q_score">
+                                    <span class="q_score_title" v-html="info_q.xh+'.'"> </span>
+                                    <span>(<span class="q_score_con"></span>)</span>
+                                    <span class="record_icon user_record" :id="question.info.stid + '_' + info_q.xh" :data-path="getMaterialPath(index)"></span>
+                                </div>
+                                <div class="info_question_title" v-html="formatHtmlPContent('问题：'+info_q.ask, info_q.askaudio, index)"></div>
+                                <div class="content_img" v-if="info_q.askimg" @click="showBigImg(index,info_q.askimg)">
+                                    <img :src="getMaterialUrl(index,info_q.askimg)" alt="原文图片">
+                                    <div class="show_big_img_tip">查看大图</div>
+                                </div>
+                                <div class="" v-if="info_q.analyze" v-html="formatHtml(info_q.analyze)"></div>
+                                <div class="info_question_answer">
+                                    <div class="inline-block" v-html="formatHtmlPContent('回答：'+info_q.answer, info_q.aswaudio,index)"></div>
+                                </div>
+                                <div class="info_question_ask color_green" v-if="info_q.std.length>0">
+                                    <p>参考答案：</p>
+                                    <p v-for="(info_q_std, info_q_std_index) in info_q.std" v-if="info_q_std_index<3"><span v-html="formatAnswerHtmlPContent(info_q_std.value, info_q_std.audio,index)"></span></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 看图说话 -->
+                    <div class="pd-container" v-if="question.structure_type === 'collector.picture'">
+                        <div class="q_score">
+                            <span class="q_score_title" v-html="(index+1)+'.'"> </span>
+                            <span>(<span class="q_score_con"></span>)</span>
+                            <span class="record_icon user_record" :id="question.info.stid+'_1'" :data-path="getMaterialPath(index)"></span>
+                        </div>
+                        <div class="recordText_con">
+                            <p class="">
+                                <p class="inline-block" v-html="formatHtmlPContent(question.info.value, question.info.audio,index)"></p>
+                            </p>
+                            <div class="content_img" v-if="question.info.image" @click="showBigImg(index, question.info.image)">
+                                <img :src="getMaterialUrl(index,question.info.image)" alt="原文图片">
+                                <div class="show_big_img_tip">查看大图</div>
+                            </div>
+                        </div>
+                        <div class="info_question_ask color_green" v-if="question.info.std.length>0">
+                            <p>参考答案：</p>
+                            <p v-for="(info_q_std, info_q_std_index) in question.info.std" v-if="info_q_std_index<3" v-html="formatAnswerHtmlPContent(info_q_std.value, info_q_std.audio,index)">
+                            </p>
+                        </div>
+                    </div>
+                    <!-- 选择题 -->
+                    <div v-if="question.structure_type === 'collector.choose'" class="content_choose border_b_div mb20">
+                        <div class="pd-container pb20" v-if="question.info.st_sm" v-html="question.info.st_sm"></div>
+                        <!-- <div class="pd-container question_title" v-if="question.info.st_nr" v-html="getNotScoreContentAudioHtml(question.info,index)"></div> -->
+                        <div class="pd-container question_title" v-html="getNotScoreContentAudioHtml(question.info,index)"></div>
+                        <div class="pd-container content_img" v-if="question.info.st_pic" @click="showBigImg(index, question.info.st_pic)">
+                            <img :src="getMaterialUrl(index,question.info.st_pic)" alt="原文图片">
+                            <div class="show_big_img_tip">查看大图</div>
+                        </div>
+                        <div v-for="(xt_item, xt_index) in question.info.xtlist">
+                            <!-- 图片选择题 -->
+                            <div class="question1 pd-container" :id="'choose_'+question.info.stid+'_'+xt_item.xt_xh" v-if="isPicChooseQue(xt_item)" :data-xth="xt_item.xt_xh">
+                                <div class="question1_title error" v-html="getXtContentAudioHtml(xt_item,index)"></div>
+                                <div class="question_value" v-if="xt_item.xt_value" v-html="xt_item.xt_value"></div>
+                                <div class="content_img" v-if="xt_item.xt_pic" @click="showBigImg(index, xt_item.xt_pic)">
+                                    <img :src="getMaterialUrl(index,xt_item.xt_pic)" alt="原文图片">
+                                    <div class="show_big_img_tip">查看大图</div>
+                                </div>
+                                <div>
+                                    <ul class="clear">
+                                        <li class="choose1" :class="xx_item.selected ? 'choose1_selected' : ''" v-for="(xx_item, xx_index) in xt_item.xxlist" :id="question.info.stid+'_'+xt_item.xt_xh+'_'+xx_item.xx_xh">
+                                            <img :src="getMaterialUrl(index,xx_item.xx_wj)" alt="选择项" class="choose1_img">
+                                            <!-- <div class="choose1_input error" v-text="xx_item.xx_mc"></div> -->
+                                            <div class="choose1_input error"></div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <!-- 普通选择题 -->
+                            <div class="question2 pd-container" v-else :id="'choose_'+question.info.stid+'_'+xt_item.xt_xh" :data-xth="xt_item.xt_xh">
+                                <div class="question2_title" v-html="getXtContentAudioHtml(xt_item,index)"></div>
+                                <div class="question_value" v-if="xt_item.xt_value" v-html="xt_item.xt_value"></div>
+                                <div class="content_img" v-if="xt_item.xt_pic" @click="showBigImg(index, xt_item.xt_pic)">
+                                    <img :src="getMaterialUrl(index,xt_item.xt_pic)" alt="原文图片">
+                                    <div class="show_big_img_tip">查看大图</div>
+                                </div>
+                                <div class="choose2_con">
+                                    <div class="choose2" :class="xx_item.selected ? 'choose2_selected' : ''" v-for="(xx_item, xx_index) in xt_item.xxlist" :id="question.info.stid+'_'+xt_item.xt_xh+'_'+xx_item.xx_xh">
+                                        <div class="choose2_input"></div>
+                                        <p class="choose2_text" v-html="xx_item.xx_mc+'. '+xx_item.xx_nr"></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 填空题 -->
+                    <div v-if="question.structure_type === 'collector.fill'" class="pd-container content_fill_answer pd-container">
+                        <div class="q_score">
+                            <span class="q_score_title" v-html="index+1+'.'"> </span>
+                            <span>(<span class="q_score_con"></span>)</span>
+                            <span class="" :data-id="question.info.stid"></span>
+                        </div>
+                        <div class="recordText_con">
+                            <p class="">
+                                <p class="inline-block" v-html="formatHtmlPContent(question.info.value, question.info.audio,index)"></p>
+                            </p>
+                            <div class="content_img" v-if="question.info.image" @click="showBigImg(index, question.info.image)">
+                                <img :src="getMaterialUrl(index,question.info.image)" alt="原文图片">
+                                <div class="show_big_img_tip">查看大图</div>
+                            </div>
+                        </div>
+                        <div class="pb20" v-for="(item, index) in question.info.std" :data-xth="item.xth" :data-th="item.th">
+                            <span class="clear">
+                                <span class="fl fill_word_number" v-text="item.th.indexOf('.') > -1 ? item.th : (item.th+'.')"></span>
+                                <span class="fl fill_word">
+                                    <!-- <span class="number" v-text="item.th"></span> -->
+                                    <!-- <span class="fill_number" v-show="index == 0" v-text="'点击作答'"></span> -->
+                                    <input :id="question.info.stid+'_'+item.xth" type="text" class="fill_word_input">
+                                </span>
+                            </span>
+
+                            <!-- <span class="fill_word"> 
+                                <span class="number" v-text="item.th"></span>
+                                <span class="fill_number" v-text="item.th"></span>
+                                <input :id="question.info.stid+'_'+item.xth" type="text" class="fill_word_input">
+                            </span> -->
+                        </div>
+                        <div class="info_question_ask color_green" v-if="question.info.std.length>0">
+                            <p>参考答案：</p>
+                            <p v-for="(info_q_std, info_q_std_index) in question.info.std" v-html="formatHtml(info_q_std.th+'. '+info_q_std.value)" :data-xth="info_q_std.xth" :data-th="info_q_std.th"></p>
+                        </div>
+                    </div>
+                    <!-- 跟读与模仿 -->
+                    <div v-if="question.structure_type === 'collector.repeat'">
+                        <div class="question2 pd-container question-repeat" v-for="(fj_item, fj_index) in question.info.fj">
+                            <div class="q_score red">
+                                <span class="q_score_title" v-text="fj_item.xh+'. '"></span>
+                                <span>(<span class="q_score_con">未作答</span>)</span>
+                                <div class="my_record floatR record_icon" :id="question.info.stid+'_'+fj_item.xh" :data-path="getMaterialPath(index)">
+                                    <!-- <img src="images/ans_my_record.png" alt="我的录音" class="record_icon"> -->
+                                </div>
+                                <div class="stander_record floatR record_icon" :id="fj_item.audio" :data-path="getMaterialPath(index)">
+                                    <!-- <img src="images/ans_record_icon.png" alt="录音" class="record_icon stander_record" :id="fj_item.audio"> -->
+                                </div>
+                            </div>
+                            <div class="">
+                                <p v-html="fj_item.value"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 朗读句子 -->
+                    <div v-if="question.structure_type === 'collector.word'">
+                        <div class="question2 pd-container" :id="question.info.stid">
+                            <div class="q_score red">
+                                <span class="q_score_title" v-text="(index+1) + '.'"></span>
+                                <span>(<span class="q_score_con">未作答</span>)</span>
+                                <img src="images/ans_my_record.png" alt="我的录音" class="record_icon my_record" :id="question.info.stid+'_'+question.info.xh">
+                            </div>
+                            <div class="recordText_con">
+                                <p class="" v-html="formatHtmlPContent(question.info.value, question.info.audio,index)"></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="js/jquery.min.js"></script>
+<script src="js/vue.min.js"></script>
+<script src="js/fn.js"></script>
+<!-- <script src="js/templet-data.js"></script> -->
+<script src="js/ets_common.js"></script>
+<script src="js/templet_common_answer.js"></script>
+<script src="js/templet_audio_play.js"></script>
+
+</html>

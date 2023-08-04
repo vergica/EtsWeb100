@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <free_expression lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="167" content="rec_paper" end_pos="2161" except_info="0" is_rejected="false" phone_score="4.049463" reject_type="0" total_score="3.158450">
+                  <sentence content="know i don&apos;t like to grow plant at home because i must spend a lot of time taking care of a plant " index="0">
+                      <word beg_pos="181" content="know" end_pos="248"></word>
+                      <word beg_pos="248" content="i" end_pos="272"></word>
+                      <word beg_pos="272" content="don&apos;t" end_pos="296"></word>
+                      <word beg_pos="296" content="like" end_pos="318"></word>
+                      <word beg_pos="318" content="to" end_pos="337"></word>
+                      <word beg_pos="337" content="grow" end_pos="366"></word>
+                      <word beg_pos="366" content="plant" end_pos="407"></word>
+                      <word beg_pos="407" content="at" end_pos="422"></word>
+                      <word beg_pos="422" content="home" end_pos="460"></word>
+                      <word beg_pos="460" content="because" end_pos="543"></word>
+                      <word beg_pos="543" content="i" end_pos="597"></word>
+                      <word beg_pos="597" content="must" end_pos="643"></word>
+                      <word beg_pos="643" content="spend" end_pos="700"></word>
+                      <word beg_pos="700" content="a" end_pos="706"></word>
+                      <word beg_pos="706" content="lot" end_pos="734"></word>
+                      <word beg_pos="734" content="of" end_pos="747"></word>
+                      <word beg_pos="747" content="time" end_pos="786"></word>
+                      <word beg_pos="786" content="taking" end_pos="817"></word>
+                      <word beg_pos="817" content="care" end_pos="848"></word>
+                      <word beg_pos="848" content="of" end_pos="862"></word>
+                      <word beg_pos="862" content="a" end_pos="868"></word>
+                      <word beg_pos="868" content="plant" end_pos="926"></word>
+                  </sentence>
+                  <sentence content="however i&apos;m very busy usually besides " index="1">
+                      <word beg_pos="952" content="however" end_pos="1035"></word>
+                      <word beg_pos="1035" content="i&apos;m" end_pos="1079"></word>
+                      <word beg_pos="1079" content="very" end_pos="1110"></word>
+                      <word beg_pos="1110" content="busy" end_pos="1180"></word>
+                      <word beg_pos="1180" content="usually" end_pos="1242"></word>
+                      <word beg_pos="1242" content="besides" end_pos="1398"></word>
+                  </sentence>
+                  <sentence content="i think i may fail to grow a plant " index="2">
+                      <word beg_pos="1513" content="i" end_pos="1545"></word>
+                      <word beg_pos="1545" content="think" end_pos="1601"></word>
+                      <word beg_pos="1601" content="i" end_pos="1612"></word>
+                      <word beg_pos="1612" content="may" end_pos="1646"></word>
+                      <word beg_pos="1646" content="fail" end_pos="1687"></word>
+                      <word beg_pos="1687" content="to" end_pos="1709"></word>
+                      <word beg_pos="1709" content="grow" end_pos="1735"></word>
+                      <word beg_pos="1735" content="a" end_pos="1738"></word>
+                      <word beg_pos="1738" content="plant" end_pos="1799"></word>
+                  </sentence>
+                  <sentence content="because i happen to grow a plant before " index="3">
+                      <word beg_pos="1863" content="because" end_pos="1916"></word>
+                      <word beg_pos="1916" content="i" end_pos="1933"></word>
+                      <word beg_pos="1933" content="happen" end_pos="1984"></word>
+                      <word beg_pos="1984" content="to" end_pos="2004"></word>
+                      <word beg_pos="2004" content="grow" end_pos="2037"></word>
+                      <word beg_pos="2037" content="a" end_pos="2052"></word>
+                      <word beg_pos="2052" content="plant" end_pos="2083"></word>
+                      <word beg_pos="2083" content="before" end_pos="2140"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </free_expression>
+  </xml_result>

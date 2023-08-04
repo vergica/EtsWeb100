@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="45" content="rec_paper" end_pos="227" except_info="0" is_rejected="false" keywords="yes please|no thanks|no thanks drunk enough" phone_score="4.390563" reject_type="0" total_score="4.939613">
+                  <sentence content="yes please " index="0">
+                      <word beg_pos="63" content="yes" end_pos="115"></word>
+                      <word beg_pos="115" content="please" end_pos="178"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

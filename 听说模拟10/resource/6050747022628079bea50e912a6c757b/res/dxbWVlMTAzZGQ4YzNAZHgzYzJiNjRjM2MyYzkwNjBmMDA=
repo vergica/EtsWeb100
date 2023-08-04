@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufk lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="84" content="rec_paper" end_pos="563" except_info="0" is_rejected="false" keywords="concert worth high price how feel concert|how feel concert how many songs band perform|how many songs band perform feel satisfied performance" phone_score="5.000000" reject_type="0" total_score="1.328058">
+                  <sentence content="do you like the concert " index="0">
+                      <word beg_pos="94" content="do" end_pos="115"></word>
+                      <word beg_pos="115" content="you" end_pos="129"></word>
+                      <word beg_pos="129" content="like" end_pos="153"></word>
+                      <word beg_pos="153" content="the" end_pos="163"></word>
+                      <word beg_pos="163" content="concert" end_pos="227"></word>
+                  </sentence>
+                  <sentence content="what has the band played " index="1">
+                      <word beg_pos="304" content="what" end_pos="336"></word>
+                      <word beg_pos="336" content="has" end_pos="360"></word>
+                      <word beg_pos="360" content="the" end_pos="376"></word>
+                      <word beg_pos="376" content="band" end_pos="412"></word>
+                      <word beg_pos="412" content="played" end_pos="467"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufk>
+  </xml_result>

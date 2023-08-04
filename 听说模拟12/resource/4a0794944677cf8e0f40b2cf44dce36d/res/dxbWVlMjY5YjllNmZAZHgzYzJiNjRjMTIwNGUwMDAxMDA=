@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <read_sentence lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <read_chapter accuracy_score="4.779007" beg_pos="0" content="Scientists and researchers are finding innovative uses for robots, many of which promise to change the world in a positive way." end_pos="1032" except_info="0" fluency_score="4.777713" integrity_score="5.000000" is_rejected="false" reject_type="0" score_pattern="strict" standard_score="4.568101" total_score="5.000000" word_count="21" words_per_min="141.097427">
+                  <sentence accuracy_score="4.779007" beg_pos="0" content="scientists and researchers are finding innovative uses for robots, many of which promise to change the world in a positive way" end_pos="1032" fluency_score="4.777713" index="0" standard_score="4.568101" total_score="4.757528" word_count="21">
+                      <word beg_pos="73" content="scientists" dp_message="0" end_pos="154" global_index="0" index="0" pitch="  192.96  192.96  188.40  184.77  182.30  180.77  179.37  177.71  176.00  173.99  171.36  167.09  162.37  157.52  153.88  150.44  147.53  144.37  142.03  140.09  138.61  137.79  140.32  143.79  147.23  147.92  148.60  149.28  149.97  150.65  150.33  148.86  146.21  143.65  141.63  140.17  138.39  136.00  132.75  129.90  127.47" pitch_beg="95" pitch_end="136" property="0" total_score="4.961676">
+                          <syll beg_pos="73" content="s ay ax n t ih s ts" end_pos="154" serr_msg="0" syll_accent="0" syll_score="4.690707">
+                              <phone beg_pos="73" content="s" dp_message="0" end_pos="96" gwpp="-0.002778" phone_total_score="4.986129"></phone>
+                              <phone beg_pos="96" content="ay" dp_message="0" end_pos="107" gwpp="-0.000919" phone_total_score="4.995406"></phone>
+                              <phone beg_pos="107" content="ax" dp_message="0" end_pos="114" gwpp="-0.001402" phone_total_score="4.992997"></phone>
+                              <phone beg_pos="114" content="n" dp_message="0" end_pos="117" gwpp="-0.003178" phone_total_score="4.984135"></phone>
+                              <phone beg_pos="117" content="t" dp_message="0" end_pos="124" gwpp="-0.027935" phone_total_score="4.862259"></phone>
+                              <phone beg_pos="124" content="ih" dp_message="0" end_pos="134" gwpp="-0.037554" phone_total_score="4.815714"></phone>
+                              <phone beg_pos="134" content="s" dp_message="0" end_pos="142" gwpp="-0.242716" phone_total_score="3.922472"></phone>
+                              <phone beg_pos="142" content="ts" dp_message="0" end_pos="154" gwpp="-0.231543" phone_total_score="3.966544"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="154" content="and" dp_message="0" end_pos="178" global_index="1" index="1" pitch="  153.20  153.20  151.45  148.18  145.93  144.02  142.34  141.01  140.49  139.44  138.91  138.82  138.95  137.65  135.48  133.61  133.12  133.30  133.34  132.62  131.73" pitch_beg="157" pitch_end="178" property="0" total_score="5.000000">
+                          <syll beg_pos="154" content="ae n d" end_pos="178" serr_msg="0" syll_accent="0" syll_score="4.995233">
+                              <phone beg_pos="154" content="ae" dp_message="0" end_pos="164" gwpp="-0.000025" phone_total_score="4.999876"></phone>
+                              <phone beg_pos="164" content="n" dp_message="0" end_pos="170" gwpp="-0.000138" phone_total_score="4.999311"></phone>
+                              <phone beg_pos="170" content="d" dp_message="0" end_pos="178" gwpp="-0.002701" phone_total_score="4.986512"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="178" content="researchers" dp_message="0" end_pos="250" global_index="2" index="2" pitch="  131.81  131.81  131.86  132.19  133.23  134.85  136.67  137.98  138.07  137.23  135.54  133.39  130.62  126.99  124.17  122.47  123.54  125.85  129.06  132.26  135.47  138.67  141.88  145.08  148.28  151.49  154.69  157.90  161.10  162.67  163.69  164.71  167.31  170.14  172.87  175.27  177.23  178.35  178.61  177.61  173.14  167.97  162.69  159.67  156.42  153.17  149.91  146.66  143.41  140.16  136.36  132.53  129.30  127.55  126.89  126.71  125.98  124.69  123.51  123.10" pitch_beg="178" pitch_end="238" property="0" total_score="4.813213">
+                          <syll beg_pos="178" content="r ih s er ch er z" end_pos="250" serr_msg="0" syll_accent="0" syll_score="4.327552">
+                              <phone beg_pos="178" content="r" dp_message="0" end_pos="185" gwpp="-0.000439" phone_total_score="4.997805"></phone>
+                              <phone beg_pos="185" content="ih" dp_message="0" end_pos="196" gwpp="-0.000160" phone_total_score="4.999199"></phone>
+                              <phone beg_pos="196" content="s" dp_message="0" end_pos="208" gwpp="-0.028963" phone_total_score="4.857262"></phone>
+                              <phone beg_pos="208" content="er" dp_message="0" end_pos="220" gwpp="-0.000164" phone_total_score="4.999182"></phone>
+                              <phone beg_pos="220" content="ch" dp_message="0" end_pos="230" gwpp="-0.243997" phone_total_score="3.917451"></phone>
+                              <phone beg_pos="230" content="er" dp_message="0" end_pos="236" gwpp="-1.236775" phone_total_score="1.451596"></phone>
+                              <phone beg_pos="236" content="z" dp_message="0" end_pos="250" gwpp="-0.065591" phone_total_score="4.682571"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="250" content="are" dp_message="0" end_pos="266" global_index="3" index="3" pitch="  142.57  142.57  137.54  132.91  130.03  126.95  125.04  123.62  122.84" pitch_beg="257" pitch_end="266" property="0" total_score="5.000000">
+                          <syll beg_pos="250" content="aa" end_pos="266" serr_msg="0" syll_accent="0" syll_score="4.994661">
+                              <phone beg_pos="250" content="aa" dp_message="0" end_pos="266" gwpp="-0.001068" phone_total_score="4.994661"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="266" content="finding" dp_message="0" end_pos="317" global_index="4" index="4" pitch="  149.84  149.84  148.60  147.36  146.57  146.51  147.53  148.87  150.20  150.97  151.10  150.56  150.42  150.11  149.68  147.72  144.57  140.52  140.94  143.16  146.81  146.59  145.83  145.07  144.60  144.54  144.87  145.23  145.77  146.68  148.14  149.52  149.67  149.80  148.66  146.99" pitch_beg="280" pitch_end="316" property="0" total_score="4.999962">
+                          <syll beg_pos="266" content="f ay n d ih ng" end_pos="317" serr_msg="0" syll_accent="0" syll_score="4.982343">
+                              <phone beg_pos="266" content="f" dp_message="0" end_pos="278" gwpp="-0.000217" phone_total_score="4.998916"></phone>
+                              <phone beg_pos="278" content="ay" dp_message="0" end_pos="290" gwpp="-0.000286" phone_total_score="4.998571"></phone>
+                              <phone beg_pos="290" content="n" dp_message="0" end_pos="295" gwpp="-0.000075" phone_total_score="4.999625"></phone>
+                              <phone beg_pos="295" content="d" dp_message="0" end_pos="302" gwpp="-0.020215" phone_total_score="4.899938"></phone>
+                              <phone beg_pos="302" content="ih" dp_message="0" end_pos="308" gwpp="-0.000525" phone_total_score="4.997374"></phone>
+                              <phone beg_pos="308" content="ng" dp_message="0" end_pos="317" gwpp="-0.000074" phone_total_score="4.999632"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="317" content="innovative" dp_message="0" end_pos="386" global_index="5" index="5" pitch="  150.29  150.29  147.82  146.17  145.31  144.45  142.53  140.58  140.79  142.57  143.81  143.33  141.49  139.78  138.05  136.75  135.84  134.68  132.68  130.14  127.27  125.31  125.96  129.43  134.88  140.28  145.68  151.08  153.18  153.47  152.07  152.55  153.35  154.63  157.15  160.91  165.13  168.67  172.25  176.29  176.49  174.01  168.97  166.27  164.06  162.35  160.65  158.95  157.25  155.54  153.84  152.14  150.44  148.73  147.03  144.70  141.93  138.92  136.24  133.22  129.36  125.47  123.11  122.41  122.51  122.33" pitch_beg="320" pitch_end="386" property="0" total_score="4.562374">
+                          <syll beg_pos="317" content="ih n ow v ey t ih v" end_pos="386" serr_msg="0" syll_accent="0" syll_score="4.176176">
+                              <phone beg_pos="317" content="ih" dp_message="0" end_pos="322" gwpp="-0.000076" phone_total_score="4.999621"></phone>
+                              <phone beg_pos="322" content="n" dp_message="0" end_pos="332" gwpp="-0.000629" phone_total_score="4.996858"></phone>
+                              <phone beg_pos="332" content="ow" dp_message="0" end_pos="339" gwpp="-2.420660" phone_total_score="0.444315"></phone>
+                              <phone beg_pos="339" content="v" dp_message="0" end_pos="348" gwpp="-1.720397" phone_total_score="0.894976"></phone>
+                              <phone beg_pos="348" content="ey" dp_message="0" end_pos="364" gwpp="-0.007362" phone_total_score="4.963323"></phone>
+                              <phone beg_pos="364" content="t" dp_message="0" end_pos="374" gwpp="-0.000745" phone_total_score="4.996274"></phone>
+                              <phone beg_pos="374" content="ih" dp_message="0" end_pos="380" gwpp="-0.046054" phone_total_score="4.774950"></phone>
+                              <phone beg_pos="380" content="v" dp_message="0" end_pos="386" gwpp="-0.000083" phone_total_score="4.999587"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="386" content="uses" dp_message="0" end_pos="450" global_index="6" index="6" pitch="  124.48  124.48  125.18  126.39  128.66  131.06  132.95  133.84  134.01  133.99  134.46  135.56  137.10  138.83  141.70  144.98  148.17  150.70  153.67  156.71  158.89  159.91  160.30  160.30  159.47  157.63  154.82  151.65  148.49  146.19  144.52  143.35  142.18  141.02  139.85  138.68  137.51  136.34  134.13  130.87  127.95  126.61  126.41  125.67  123.84  121.54  119.05" pitch_beg="386" pitch_end="433" property="0" total_score="4.359444">
+                          <syll beg_pos="386" content="y uw s ih z" end_pos="450" serr_msg="0" syll_accent="0" syll_score="3.779676">
+                              <phone beg_pos="386" content="y" dp_message="0" end_pos="402" gwpp="-0.000222" phone_total_score="4.998890"></phone>
+                              <phone beg_pos="402" content="uw" dp_message="0" end_pos="414" gwpp="-0.000080" phone_total_score="4.999602"></phone>
+                              <phone beg_pos="414" content="s" dp_message="0" end_pos="422" gwpp="-2.047350" phone_total_score="0.645382"></phone>
+                              <phone beg_pos="422" content="ih" dp_message="0" end_pos="432" gwpp="-0.237330" phone_total_score="3.943654"></phone>
+                              <phone beg_pos="432" content="z" dp_message="0" end_pos="450" gwpp="-0.472619" phone_total_score="3.116838"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="450" content="for" dp_message="0" end_pos="478" global_index="7" index="7" pitch="  129.28  129.28  128.29  128.02  128.10  128.23  127.72  126.42  124.46  122.16  120.98  120.96" pitch_beg="466" pitch_end="478" property="0" total_score="4.998317">
+                          <syll beg_pos="450" content="f ao" end_pos="478" serr_msg="0" syll_accent="0" syll_score="4.927731">
+                              <phone beg_pos="450" content="f" dp_message="0" end_pos="466" gwpp="-0.000067" phone_total_score="4.999664"></phone>
+                              <phone beg_pos="466" content="ao" dp_message="0" end_pos="478" gwpp="-0.029264" phone_total_score="4.855799"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="478" content="robots" dp_message="0" end_pos="546" global_index="8" index="8" pitch="  123.79  123.79  126.20  129.25  132.34  135.41  138.42  141.46  144.10  146.05  147.66  149.34  151.83  154.70  157.81  160.21  161.62  161.65  159.94  156.19  149.99  146.23  144.09  148.14  149.88  150.88  147.58  144.27  140.96  137.66  134.35  130.78  127.22  123.85  120.80  118.04  114.88  111.02  107.26  104.52  106.44  111.98" pitch_beg="478" pitch_end="520" property="12" total_score="4.930731">
+                          <syll beg_pos="478" content="r ow b oo ts" end_pos="546" serr_msg="0" syll_accent="0" syll_score="4.566316">
+                              <phone beg_pos="478" content="r" dp_message="0" end_pos="490" gwpp="-0.000026" phone_total_score="4.999872"></phone>
+                              <phone beg_pos="490" content="ow" dp_message="0" end_pos="503" gwpp="-0.000213" phone_total_score="4.998938"></phone>
+                              <phone beg_pos="503" content="b" dp_message="0" end_pos="510" gwpp="-0.001162" phone_total_score="4.994195"></phone>
+                              <phone beg_pos="510" content="oo" dp_message="0" end_pos="520" gwpp="-0.058860" phone_total_score="4.714193"></phone>
+                              <phone beg_pos="520" content="ts" dp_message="0" end_pos="546" gwpp="-0.470201" phone_total_score="3.124382"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="546" content="sil" end_pos="574"></word>
+                      <word beg_pos="574" content="many" dp_message="0" end_pos="614" global_index="9" index="9" pitch="  158.90  158.90  155.98  154.89  154.88  155.07  156.29  157.41  159.49  162.79  166.27  168.96  169.70  170.69  172.34  174.66  175.11  174.97  174.15  173.18  171.08  168.71  165.70  162.11  158.38  154.88  151.51  147.88" pitch_beg="586" pitch_end="614" property="0" total_score="4.901863">
+                          <syll beg_pos="574" content="m eh n ih" end_pos="614" serr_msg="0" syll_accent="0" syll_score="4.462808">
+                              <phone beg_pos="574" content="m" dp_message="0" end_pos="592" gwpp="-0.066752" phone_total_score="4.677138"></phone>
+                              <phone beg_pos="592" content="eh" dp_message="0" end_pos="598" gwpp="-0.085759" phone_total_score="4.589078"></phone>
+                              <phone beg_pos="598" content="n" dp_message="0" end_pos="604" gwpp="-0.001282" phone_total_score="4.993592"></phone>
+                              <phone beg_pos="604" content="ih" dp_message="0" end_pos="614" gwpp="-0.330889" phone_total_score="3.591423"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="614" content="of" dp_message="0" end_pos="632" global_index="10" index="10" pitch="  141.65  141.65  139.14  137.30  135.64  129.05  117.22" pitch_beg="614" pitch_end="621" property="0" total_score="2.777742">
+                          <syll beg_pos="614" content="ax v" end_pos="632" serr_msg="1" syll_accent="0" syll_score="1.839397">
+                              <phone beg_pos="614" content="ax" dp_message="0" end_pos="620" gwpp="-1.396979" phone_total_score="1.236715"></phone>
+                              <phone beg_pos="620" content="v" dp_message="0" end_pos="632" gwpp="-3.439093" phone_total_score="0.160469"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="632" content="which" dp_message="0" end_pos="666" global_index="11" index="11" pitch="  131.22  131.22  129.58  129.83  131.97  134.87  137.82  139.84  141.01  141.27  141.20  141.09  140.60  139.49  137.48  134.51  130.98  131.54  136.85" pitch_beg="635" pitch_end="654" property="0" total_score="4.999454">
+                          <syll beg_pos="632" content="w ih ch" end_pos="666" serr_msg="0" syll_accent="0" syll_score="4.967550">
+                              <phone beg_pos="632" content="w" dp_message="0" end_pos="643" gwpp="-0.010018" phone_total_score="4.950161"></phone>
+                              <phone beg_pos="643" content="ih" dp_message="0" end_pos="654" gwpp="-0.005683" phone_total_score="4.971668"></phone>
+                              <phone beg_pos="654" content="ch" dp_message="0" end_pos="666" gwpp="-0.003843" phone_total_score="4.980821"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="666" content="promise" dp_message="0" end_pos="712" global_index="12" index="12" pitch="  151.44  151.44  152.47  152.81  151.83  150.89  150.93  152.01  153.21  154.03  154.14  153.34  151.34  150.68  150.58  151.62  151.02  149.16  147.14  144.03  140.40  135.95  132.38  130.20  128.71  126.94  124.92  122.50" pitch_beg="678" pitch_end="706" property="0" total_score="4.539350">
+                          <syll beg_pos="666" content="p r oo m ih s" end_pos="712" serr_msg="0" syll_accent="0" syll_score="4.055387">
+                              <phone beg_pos="666" content="p" dp_message="0" end_pos="676" gwpp="-0.000158" phone_total_score="4.999211"></phone>
+                              <phone beg_pos="676" content="r" dp_message="0" end_pos="684" gwpp="-0.000163" phone_total_score="4.999185"></phone>
+                              <phone beg_pos="684" content="oo" dp_message="0" end_pos="690" gwpp="-0.611922" phone_total_score="2.711538"></phone>
+                              <phone beg_pos="690" content="m" dp_message="0" end_pos="698" gwpp="-0.044222" phone_total_score="4.783709"></phone>
+                              <phone beg_pos="698" content="ih" dp_message="0" end_pos="706" gwpp="-0.000142" phone_total_score="4.999288"></phone>
+                              <phone beg_pos="706" content="s" dp_message="0" end_pos="712" gwpp="-1.977097" phone_total_score="0.692353"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="712" content="to" dp_message="0" end_pos="732" global_index="13" index="13" pitch="  132.24  132.24  131.25  129.59  125.52  119.19" pitch_beg="726" pitch_end="732" property="0" total_score="4.996604">
+                          <syll beg_pos="712" content="t uw" end_pos="732" serr_msg="0" syll_accent="0" syll_score="4.900997">
+                              <phone beg_pos="712" content="t" dp_message="0" end_pos="724" gwpp="-0.017145" phone_total_score="4.915004"></phone>
+                              <phone beg_pos="724" content="uw" dp_message="0" end_pos="732" gwpp="-0.022861" phone_total_score="4.886989"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="732" content="change" dp_message="0" end_pos="771" global_index="14" index="14" pitch="  157.07  157.07  155.98  153.85  151.21  149.42  148.11  146.83  145.30  144.05  142.33  140.75  139.21  137.57  134.66  131.03  128.49  127.82  127.56  126.33  123.28  119.02" pitch_beg="749" pitch_end="771" property="0" total_score="4.647174">
+                          <syll beg_pos="732" content="ch ey n jh" end_pos="771" serr_msg="0" syll_accent="0" syll_score="4.103778">
+                              <phone beg_pos="732" content="ch" dp_message="0" end_pos="750" gwpp="-0.001155" phone_total_score="4.994226"></phone>
+                              <phone beg_pos="750" content="ey" dp_message="0" end_pos="755" gwpp="-1.411531" phone_total_score="1.218849"></phone>
+                              <phone beg_pos="755" content="n" dp_message="0" end_pos="764" gwpp="-0.000125" phone_total_score="4.999375"></phone>
+                              <phone beg_pos="764" content="jh" dp_message="0" end_pos="771" gwpp="-0.087277" phone_total_score="4.582115"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="771" content="the" dp_message="0" end_pos="786" global_index="15" index="15" pitch="  131.80  131.80  128.04  125.98  124.16  122.23  119.63  116.57" pitch_beg="778" pitch_end="786" property="0" total_score="4.909357">
+                          <syll beg_pos="771" content="dh ax" end_pos="786" serr_msg="0" syll_accent="0" syll_score="4.483969">
+                              <phone beg_pos="771" content="dh" dp_message="0" end_pos="776" gwpp="-0.231187" phone_total_score="3.967957"></phone>
+                              <phone beg_pos="776" content="ax" dp_message="0" end_pos="786" gwpp="-0.000004" phone_total_score="4.999981"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="786" content="world" dp_message="0" end_pos="830" global_index="16" index="16" pitch="  115.75  115.75  117.03  119.06  120.81  122.44  124.93  128.03  131.77  135.10  138.47  141.86  144.42  145.89  145.89  144.97  143.24  141.26  139.24  137.27  135.17  132.53  129.59  127.24  126.02  125.55  125.02  124.26  123.87  123.61  123.34  123.11  122.59  120.69  117.43  113.51" pitch_beg="786" pitch_end="822" property="0" total_score="4.998909">
+                          <syll beg_pos="786" content="w er l d" end_pos="830" serr_msg="0" syll_accent="0" syll_score="4.949308">
+                              <phone beg_pos="786" content="w" dp_message="0" end_pos="800" gwpp="-0.000352" phone_total_score="4.998240"></phone>
+                              <phone beg_pos="800" content="er" dp_message="0" end_pos="812" gwpp="-0.029389" phone_total_score="4.855194"></phone>
+                              <phone beg_pos="812" content="l" dp_message="0" end_pos="822" gwpp="-0.000304" phone_total_score="4.998481"></phone>
+                              <phone beg_pos="822" content="d" dp_message="0" end_pos="830" gwpp="-0.010996" phone_total_score="4.945320"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="830" content="in" dp_message="0" end_pos="848" global_index="17" index="17" pitch="  139.71  139.71  138.74  137.47  135.93  134.58  133.67  133.01  132.81  132.56  132.37" pitch_beg="837" pitch_end="848" property="0" total_score="5.000000">
+                          <syll beg_pos="830" content="ih n" end_pos="848" serr_msg="0" syll_accent="0" syll_score="4.999710">
+                              <phone beg_pos="830" content="ih" dp_message="0" end_pos="840" gwpp="-0.000062" phone_total_score="4.999690"></phone>
+                              <phone beg_pos="840" content="n" dp_message="0" end_pos="848" gwpp="-0.000054" phone_total_score="4.999730"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="848" content="a" dp_message="0" end_pos="856" global_index="18" index="18" pitch="  129.78  129.78  129.08  128.31  126.70  120.54  110.18" pitch_beg="848" pitch_end="855" property="0" total_score="5.000000">
+                          <syll beg_pos="848" content="ax" end_pos="856" serr_msg="0" syll_accent="0" syll_score="4.998568">
+                              <phone beg_pos="848" content="ax" dp_message="0" end_pos="856" gwpp="-0.000286" phone_total_score="4.998568"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="856" content="positive" dp_message="0" end_pos="915" global_index="19" index="19" pitch="  149.84  149.84  149.92  149.53  149.02  148.68  147.68  147.38  147.20  148.61  149.24  149.51  148.73  147.95  147.17  146.39  145.11  142.36  136.69  129.58  124.42  122.65  123.30  123.96  124.62  125.27  125.93  126.59  127.24  127.90  128.56  129.21  129.43  128.87  127.60  126.24  124.33  120.42  117.32  115.82" pitch_beg="869" pitch_end="909" property="0" total_score="4.690819">
+                          <syll beg_pos="856" content="p oo z ax t ih v" end_pos="915" serr_msg="0" syll_accent="0" syll_score="4.036183">
+                              <phone beg_pos="856" content="p" dp_message="0" end_pos="866" gwpp="-0.000075" phone_total_score="4.999627"></phone>
+                              <phone beg_pos="866" content="oo" dp_message="0" end_pos="877" gwpp="-0.002571" phone_total_score="4.987161"></phone>
+                              <phone beg_pos="877" content="z" dp_message="0" end_pos="884" gwpp="-0.582897" phone_total_score="2.791393"></phone>
+                              <phone beg_pos="884" content="ax" dp_message="0" end_pos="890" gwpp="-0.536748" phone_total_score="2.923233"></phone>
+                              <phone beg_pos="890" content="t" dp_message="0" end_pos="900" gwpp="-0.000555" phone_total_score="4.997223"></phone>
+                              <phone beg_pos="900" content="ih" dp_message="0" end_pos="907" gwpp="-0.150350" phone_total_score="4.302035"></phone>
+                              <phone beg_pos="907" content="v" dp_message="0" end_pos="915" gwpp="-0.429982" phone_total_score="3.252605"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="915" content="sil" end_pos="920"></word>
+                      <word beg_pos="920" content="way" dp_message="0" end_pos="966" global_index="20" index="20" pitch="  124.93  124.93  123.37  122.55  121.68  120.79  119.83  119.01  118.00  117.35  116.79  116.29  115.14  113.73  112.62  111.85  111.49  111.20  111.39  111.20  110.76  110.74  112.28  114.97  117.89  121.11  124.01  126.73  128.19  129.35  130.09" pitch_beg="930" pitch_end="961" property="0" total_score="4.956742">
+                          <syll beg_pos="920" content="w ey" end_pos="966" serr_msg="0" syll_accent="0" syll_score="4.655491">
+                              <phone beg_pos="920" content="w" dp_message="0" end_pos="936" gwpp="-0.096405" phone_total_score="4.540481"></phone>
+                              <phone beg_pos="936" content="ey" dp_message="0" end_pos="966" gwpp="-0.046987" phone_total_score="4.770501"></phone>
+                          </syll>
+                      </word>
+                  </sentence>
+              </read_chapter>
+          </rec_paper>
+      </read_sentence>
+  </xml_result>

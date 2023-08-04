@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufk lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="236" content="rec_paper" end_pos="676" except_info="0" is_rejected="false" keywords="what think of movie is interesting|what movie watch how long last|which character like best is boring|what kind of movie is about love|who go with did you buy popcorn|what movie about who starred|how like movie is it interesting|what kind movie what plot" phone_score="5.000000" reject_type="0" total_score="2.024723">
+                  <sentence content="do you like the movie " index="0">
+                      <word beg_pos="249" content="do" end_pos="268"></word>
+                      <word beg_pos="268" content="you" end_pos="290"></word>
+                      <word beg_pos="290" content="like" end_pos="318"></word>
+                      <word beg_pos="318" content="the" end_pos="334"></word>
+                      <word beg_pos="334" content="movie" end_pos="385"></word>
+                  </sentence>
+                  <sentence content="what does the movie tel " index="1">
+                      <word beg_pos="478" content="what" end_pos="510"></word>
+                      <word beg_pos="510" content="does" end_pos="533"></word>
+                      <word beg_pos="533" content="the" end_pos="547"></word>
+                      <word beg_pos="547" content="movie" end_pos="579"></word>
+                      <word beg_pos="579" content="tel" end_pos="621"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufk>
+  </xml_result>

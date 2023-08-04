@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <free_expression lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="78" content="rec_paper" end_pos="1840" except_info="0" is_rejected="false" phone_score="4.377988" reject_type="0" total_score="0.660619">
+                  <sentence content="one day a boy hit me and i felt underground i was seriously hurt and cried loudly however i didn&apos;t chase the boy " index="0">
+                      <word beg_pos="81" content="one" end_pos="126"></word>
+                      <word beg_pos="126" content="day" end_pos="161"></word>
+                      <word beg_pos="161" content="a" end_pos="175"></word>
+                      <word beg_pos="175" content="boy" end_pos="213"></word>
+                      <word beg_pos="213" content="hit" end_pos="239"></word>
+                      <word beg_pos="239" content="me" end_pos="266"></word>
+                      <word beg_pos="266" content="and" end_pos="287"></word>
+                      <word beg_pos="287" content="i" end_pos="302"></word>
+                      <word beg_pos="302" content="felt" end_pos="340"></word>
+                      <word beg_pos="340" content="underground" end_pos="407"></word>
+                      <word beg_pos="407" content="i" end_pos="458"></word>
+                      <word beg_pos="458" content="was" end_pos="495"></word>
+                      <word beg_pos="495" content="seriously" end_pos="565"></word>
+                      <word beg_pos="565" content="hurt" end_pos="602"></word>
+                      <word beg_pos="602" content="and" end_pos="627"></word>
+                      <word beg_pos="627" content="cried" end_pos="665"></word>
+                      <word beg_pos="665" content="loudly" end_pos="718"></word>
+                      <word beg_pos="718" content="however" end_pos="825"></word>
+                      <word beg_pos="825" content="i" end_pos="837"></word>
+                      <word beg_pos="837" content="didn&apos;t" end_pos="871"></word>
+                      <word beg_pos="871" content="chase" end_pos="901"></word>
+                      <word beg_pos="901" content="the" end_pos="917"></word>
+                      <word beg_pos="917" content="boy" end_pos="970"></word>
+                  </sentence>
+                  <sentence content="i told it to my teacher my teacher was surprised and place me she told us that we should be kind to each other " index="1">
+                      <word beg_pos="987" content="i" end_pos="1015"></word>
+                      <word beg_pos="1015" content="told" end_pos="1044"></word>
+                      <word beg_pos="1044" content="it" end_pos="1058"></word>
+                      <word beg_pos="1058" content="to" end_pos="1071"></word>
+                      <word beg_pos="1071" content="my" end_pos="1088"></word>
+                      <word beg_pos="1088" content="teacher" end_pos="1148"></word>
+                      <word beg_pos="1148" content="my" end_pos="1209"></word>
+                      <word beg_pos="1209" content="teacher" end_pos="1244"></word>
+                      <word beg_pos="1244" content="was" end_pos="1266"></word>
+                      <word beg_pos="1266" content="surprised" end_pos="1346"></word>
+                      <word beg_pos="1346" content="and" end_pos="1431"></word>
+                      <word beg_pos="1431" content="place" end_pos="1472"></word>
+                      <word beg_pos="1472" content="me" end_pos="1511"></word>
+                      <word beg_pos="1511" content="she" end_pos="1555"></word>
+                      <word beg_pos="1555" content="told" end_pos="1587"></word>
+                      <word beg_pos="1587" content="us" end_pos="1603"></word>
+                      <word beg_pos="1603" content="that" end_pos="1639"></word>
+                      <word beg_pos="1639" content="we" end_pos="1655"></word>
+                      <word beg_pos="1655" content="should" end_pos="1676"></word>
+                      <word beg_pos="1676" content="be" end_pos="1693"></word>
+                      <word beg_pos="1693" content="kind" end_pos="1731"></word>
+                      <word beg_pos="1731" content="to" end_pos="1749"></word>
+                      <word beg_pos="1749" content="each" end_pos="1769"></word>
+                      <word beg_pos="1769" content="other" end_pos="1815"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </free_expression>
+  </xml_result>

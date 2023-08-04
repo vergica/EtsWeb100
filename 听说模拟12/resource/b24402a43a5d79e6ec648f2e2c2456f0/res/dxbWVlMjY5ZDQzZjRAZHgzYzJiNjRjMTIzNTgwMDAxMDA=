@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufj lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="83" content="rec_paper" end_pos="735" except_info="0" is_rejected="false" keywords="teach history reveal interconnection life forms|convey respect nature homeland culture history" phone_score="4.580115" reject_type="0" total_score="1.958053" word_hit_of_each_kw="0.50|0.33">
+                  <sentence content="lessons about history and even all life forms are conveys by the stories " index="0">
+                      <word beg_pos="89" content="lessons" end_pos="159"></word>
+                      <word beg_pos="159" content="about" end_pos="198"></word>
+                      <word beg_pos="198" content="history" end_pos="272"></word>
+                      <word beg_pos="272" content="and" end_pos="303"></word>
+                      <word beg_pos="303" content="even" end_pos="344"></word>
+                      <word beg_pos="344" content="all" end_pos="369"></word>
+                      <word beg_pos="369" content="life" end_pos="407"></word>
+                      <word beg_pos="407" content="forms" end_pos="461"></word>
+                      <word beg_pos="461" content="are" end_pos="474"></word>
+                      <word beg_pos="474" content="conveys" end_pos="544"></word>
+                      <word beg_pos="544" content="by" end_pos="570"></word>
+                      <word beg_pos="570" content="the" end_pos="584"></word>
+                      <word beg_pos="584" content="stories" end_pos="670"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufj>
+  </xml_result>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="95" content="rec_paper" end_pos="199" except_info="0" is_rejected="false" keywords="that&apos;s all right|doesn&apos;t matter|that&apos;s ok buy it later|ok|don&apos;t worry|nothing|no problem|fine with me|never mind" phone_score="5.000000" reject_type="0" total_score="4.940383">
+                  <sentence content="never mind " index="0">
+                      <word beg_pos="112" content="never" end_pos="145"></word>
+                      <word beg_pos="145" content="mind" end_pos="181"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

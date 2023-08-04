@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <free_expression lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="42" content="rec_paper" end_pos="2335" except_info="0" is_rejected="false" phone_score="5.000000" reject_type="0" total_score="2.425349">
+                  <sentence content="i like rainy days best " index="0">
+                      <word beg_pos="57" content="i" end_pos="78"></word>
+                      <word beg_pos="78" content="like" end_pos="112"></word>
+                      <word beg_pos="112" content="rainy" end_pos="143"></word>
+                      <word beg_pos="143" content="days" end_pos="180"></word>
+                      <word beg_pos="180" content="best" end_pos="247"></word>
+                  </sentence>
+                  <sentence content="because i think rainy days is cola than others i like stay in the rules and watch the reasons outside " index="1">
+                      <word beg_pos="371" content="because" end_pos="443"></word>
+                      <word beg_pos="443" content="i" end_pos="466"></word>
+                      <word beg_pos="466" content="think" end_pos="524"></word>
+                      <word beg_pos="524" content="rainy" end_pos="557"></word>
+                      <word beg_pos="557" content="days" end_pos="606"></word>
+                      <word beg_pos="606" content="is" end_pos="645"></word>
+                      <word beg_pos="645" content="cola" end_pos="693"></word>
+                      <word beg_pos="693" content="than" end_pos="721"></word>
+                      <word beg_pos="721" content="others" end_pos="793"></word>
+                      <word beg_pos="793" content="i" end_pos="873"></word>
+                      <word beg_pos="873" content="like" end_pos="924"></word>
+                      <word beg_pos="924" content="stay" end_pos="982"></word>
+                      <word beg_pos="982" content="in" end_pos="1007"></word>
+                      <word beg_pos="1007" content="the" end_pos="1016"></word>
+                      <word beg_pos="1016" content="rules" end_pos="1055"></word>
+                      <word beg_pos="1055" content="and" end_pos="1111"></word>
+                      <word beg_pos="1111" content="watch" end_pos="1153"></word>
+                      <word beg_pos="1153" content="the" end_pos="1167"></word>
+                      <word beg_pos="1167" content="reasons" end_pos="1211"></word>
+                      <word beg_pos="1211" content="outside" end_pos="1281"></word>
+                  </sentence>
+                  <sentence content="i think it&apos;s a kind of wonderful experience also " index="2">
+                      <word beg_pos="1401" content="i" end_pos="1422"></word>
+                      <word beg_pos="1422" content="think" end_pos="1449"></word>
+                      <word beg_pos="1449" content="it&apos;s" end_pos="1475"></word>
+                      <word beg_pos="1475" content="a" end_pos="1484"></word>
+                      <word beg_pos="1484" content="kind" end_pos="1523"></word>
+                      <word beg_pos="1523" content="of" end_pos="1536"></word>
+                      <word beg_pos="1536" content="wonderful" end_pos="1579"></word>
+                      <word beg_pos="1579" content="experience" end_pos="1689"></word>
+                      <word beg_pos="1689" content="also" end_pos="1854"></word>
+                  </sentence>
+                  <sentence content="rainy days is pen official for cross to grow " index="3">
+                      <word beg_pos="1921" content="rainy" end_pos="1969"></word>
+                      <word beg_pos="1969" content="days" end_pos="2010"></word>
+                      <word beg_pos="2010" content="is" end_pos="2055"></word>
+                      <word beg_pos="2055" content="pen" end_pos="2075"></word>
+                      <word beg_pos="2075" content="official" end_pos="2122"></word>
+                      <word beg_pos="2122" content="for" end_pos="2147"></word>
+                      <word beg_pos="2147" content="cross" end_pos="2195"></word>
+                      <word beg_pos="2195" content="to" end_pos="2214"></word>
+                      <word beg_pos="2214" content="grow" end_pos="2258"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </free_expression>
+  </xml_result>

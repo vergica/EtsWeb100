@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufk lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="99" content="rec_paper" end_pos="504" except_info="0" is_rejected="false" keywords="when station finished where line passed|when station finished what&apos;s length line|when station finished which line belong to|when station finished where location station|when station finished can i go by this line|when station finished what places line pass|when station finished where line start|when station finished how many stations line have" phone_score="5.000000" reject_type="0" total_score="1.231344">
+                  <sentence content="have you gone to the railway station where is it " index="0">
+                      <word beg_pos="104" content="have" end_pos="139"></word>
+                      <word beg_pos="139" content="you" end_pos="158"></word>
+                      <word beg_pos="158" content="gone" end_pos="181"></word>
+                      <word beg_pos="181" content="to" end_pos="207"></word>
+                      <word beg_pos="207" content="the" end_pos="223"></word>
+                      <word beg_pos="223" content="railway" end_pos="266"></word>
+                      <word beg_pos="266" content="station" end_pos="322"></word>
+                      <word beg_pos="322" content="where" end_pos="418"></word>
+                      <word beg_pos="418" content="is" end_pos="447"></word>
+                      <word beg_pos="447" content="it" end_pos="481"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufk>
+  </xml_result>

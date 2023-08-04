@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="43" content="rec_paper" end_pos="138" except_info="28680" is_rejected="false" keywords="no problem|yes of course|ok i will|certainly|of course|sure|ok|with pleasure|sure why not|honour do something for you|sorry too heavy|sorry can&apos;t|sorry hands full" phone_score="2.772271" reject_type="1024" total_score="4.904325">
+                  <sentence content="sure " index="0">
+                      <word beg_pos="62" content="sure" end_pos="117"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

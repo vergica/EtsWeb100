@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufj lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="73" content="rec_paper" end_pos="1051" except_info="0" is_rejected="false" keywords="create statement what expect happen write procedure experiment|write statement what expect happen write all steps needed carry out experiment|create statement what expect happen write all steps needed carry out experiment|write statement what expect happen during experiment write procedure experiment|creating statement what expect happen during experiment writing procedure experiment" phone_score="4.950726" reject_type="0" total_score="1.386895" word_hit_of_each_kw="0.50|0.25|0.33|0.30|0.40">
+                  <sentence content="to of the steps are raising a question about the things in the natural world and creating a statement about what is supposed to happen " index="0">
+                      <word beg_pos="85" content="to" end_pos="119"></word>
+                      <word beg_pos="119" content="of" end_pos="135"></word>
+                      <word beg_pos="135" content="the" end_pos="152"></word>
+                      <word beg_pos="152" content="steps" end_pos="209"></word>
+                      <word beg_pos="209" content="are" end_pos="262"></word>
+                      <word beg_pos="262" content="raising" end_pos="318"></word>
+                      <word beg_pos="318" content="a" end_pos="325"></word>
+                      <word beg_pos="325" content="question" end_pos="386"></word>
+                      <word beg_pos="386" content="about" end_pos="433"></word>
+                      <word beg_pos="433" content="the" end_pos="452"></word>
+                      <word beg_pos="452" content="things" end_pos="487"></word>
+                      <word beg_pos="487" content="in" end_pos="495"></word>
+                      <word beg_pos="495" content="the" end_pos="506"></word>
+                      <word beg_pos="506" content="natural" end_pos="551"></word>
+                      <word beg_pos="551" content="world" end_pos="600"></word>
+                      <word beg_pos="600" content="and" end_pos="656"></word>
+                      <word beg_pos="656" content="creating" end_pos="713"></word>
+                      <word beg_pos="713" content="a" end_pos="719"></word>
+                      <word beg_pos="719" content="statement" end_pos="780"></word>
+                      <word beg_pos="780" content="about" end_pos="819"></word>
+                      <word beg_pos="819" content="what" end_pos="854"></word>
+                      <word beg_pos="854" content="is" end_pos="874"></word>
+                      <word beg_pos="874" content="supposed" end_pos="928"></word>
+                      <word beg_pos="928" content="to" end_pos="941"></word>
+                      <word beg_pos="941" content="happen" end_pos="993"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufj>
+  </xml_result>

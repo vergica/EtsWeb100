@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <topic lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper accuracy_score="1.288555" beg_pos="98" content="rec_paper" end_pos="2860" except_info="0" is_rejected="false" keypoints="" phone_score="5.000000" reject_type="0" speeking_speed="135.499207" total_score="1.506863">
+                  <sentence content="it was sunday morning some students were playing in the countryside suddenly they found that they found that they had lost the way " index="0">
+                      <word beg_pos="101" content="it" end_pos="125"></word>
+                      <word beg_pos="125" content="was" end_pos="154"></word>
+                      <word beg_pos="154" content="sunday" end_pos="193"></word>
+                      <word beg_pos="193" content="morning" end_pos="257"></word>
+                      <word beg_pos="257" content="some" end_pos="293"></word>
+                      <word beg_pos="293" content="students" end_pos="343"></word>
+                      <word beg_pos="343" content="were" end_pos="369"></word>
+                      <word beg_pos="369" content="playing" end_pos="425"></word>
+                      <word beg_pos="425" content="in" end_pos="439"></word>
+                      <word beg_pos="439" content="the" end_pos="451"></word>
+                      <word beg_pos="451" content="countryside" end_pos="529"></word>
+                      <word beg_pos="529" content="suddenly" end_pos="607"></word>
+                      <word beg_pos="607" content="they" end_pos="625"></word>
+                      <word beg_pos="625" content="found" end_pos="655"></word>
+                      <word beg_pos="655" content="that" end_pos="677"></word>
+                      <word beg_pos="677" content="they" end_pos="711"></word>
+                      <word beg_pos="711" content="found" end_pos="739"></word>
+                      <word beg_pos="739" content="that" end_pos="777"></word>
+                      <word beg_pos="777" content="they" end_pos="809"></word>
+                      <word beg_pos="809" content="had" end_pos="841"></word>
+                      <word beg_pos="841" content="lost" end_pos="873"></word>
+                      <word beg_pos="873" content="the" end_pos="887"></word>
+                      <word beg_pos="887" content="way" end_pos="931"></word>
+                  </sentence>
+                  <sentence content="they felt very action they ask the police for help and police told them to stay home " index="1">
+                      <word beg_pos="982" content="they" end_pos="1025"></word>
+                      <word beg_pos="1025" content="felt" end_pos="1063"></word>
+                      <word beg_pos="1063" content="very" end_pos="1105"></word>
+                      <word beg_pos="1105" content="action" end_pos="1144"></word>
+                      <word beg_pos="1144" content="they" end_pos="1319"></word>
+                      <word beg_pos="1319" content="ask" end_pos="1352"></word>
+                      <word beg_pos="1352" content="the" end_pos="1363"></word>
+                      <word beg_pos="1363" content="police" end_pos="1401"></word>
+                      <word beg_pos="1401" content="for" end_pos="1419"></word>
+                      <word beg_pos="1419" content="help" end_pos="1463"></word>
+                      <word beg_pos="1463" content="and" end_pos="1497"></word>
+                      <word beg_pos="1497" content="police" end_pos="1527"></word>
+                      <word beg_pos="1527" content="told" end_pos="1554"></word>
+                      <word beg_pos="1554" content="them" end_pos="1583"></word>
+                      <word beg_pos="1583" content="to" end_pos="1653"></word>
+                      <word beg_pos="1653" content="stay" end_pos="1691"></word>
+                      <word beg_pos="1691" content="home" end_pos="1741"></word>
+                  </sentence>
+                  <sentence content="and just wait " index="2">
+                      <word beg_pos="1764" content="and" end_pos="1831"></word>
+                      <word beg_pos="1831" content="just" end_pos="1895"></word>
+                      <word beg_pos="1895" content="wait" end_pos="1947"></word>
+                  </sentence>
+                  <sentence content="finally the police find found them and helped them they finally go back home " index="3">
+                      <word beg_pos="2081" content="finally" end_pos="2147"></word>
+                      <word beg_pos="2147" content="the" end_pos="2183"></word>
+                      <word beg_pos="2183" content="police" end_pos="2221"></word>
+                      <word beg_pos="2221" content="find" end_pos="2258"></word>
+                      <word beg_pos="2258" content="found" end_pos="2291"></word>
+                      <word beg_pos="2291" content="them" end_pos="2331"></word>
+                      <word beg_pos="2331" content="and" end_pos="2455"></word>
+                      <word beg_pos="2455" content="helped" end_pos="2552"></word>
+                      <word beg_pos="2552" content="them" end_pos="2595"></word>
+                      <word beg_pos="2595" content="they" end_pos="2679"></word>
+                      <word beg_pos="2679" content="finally" end_pos="2737"></word>
+                      <word beg_pos="2737" content="go" end_pos="2765"></word>
+                      <word beg_pos="2765" content="back" end_pos="2789"></word>
+                      <word beg_pos="2789" content="home" end_pos="2833"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </topic>
+  </xml_result>

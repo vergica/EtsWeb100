@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="66" content="rec_paper" end_pos="189" except_info="0" is_rejected="false" keywords="bad news|pity|sorry to hear|unlucky|no looking forward|bad luck" phone_score="5.000000" reject_type="0" total_score="4.935176">
+                  <sentence content="what a pity " index="0">
+                      <word beg_pos="85" content="what" end_pos="119"></word>
+                      <word beg_pos="119" content="a" end_pos="124"></word>
+                      <word beg_pos="124" content="pity" end_pos="168"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

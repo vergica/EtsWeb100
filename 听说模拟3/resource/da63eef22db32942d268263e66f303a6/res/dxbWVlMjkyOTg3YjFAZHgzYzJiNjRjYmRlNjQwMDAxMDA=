@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <read_sentence lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <read_chapter accuracy_score="0.619383" beg_pos="0" content="The Internet of things will make a profound impact on modern life." end_pos="1590" except_info="28676" fluency_score="4.358918" integrity_score="0.416667" is_rejected="true" reject_type="128" score_pattern="strict" standard_score="3.397940" total_score="0.226919" word_count="12" words_per_min="0.000000">
+                  <sentence accuracy_score="0.051615" beg_pos="0" content="the internet of things will make a profound impact on modern life" end_pos="1590" fluency_score="0.363243" index="0" standard_score="0.283162" total_score="0.168258" word_count="12">
+                      <word beg_pos="631" content="the" dp_message="0" end_pos="640" global_index="0" index="0" pitch="  103.27  103.27  102.84   99.91   99.88  100.91" pitch_beg="634" pitch_end="640" property="0" total_score="3.061473">
+                          <syll beg_pos="631" content="dh ax" end_pos="640" serr_msg="1" syll_accent="0" syll_score="3.133530">
+                              <phone beg_pos="631" content="dh" dp_message="0" end_pos="634" gwpp="-6.110791" phone_total_score="0.011094"></phone>
+                              <phone beg_pos="634" content="ax" dp_message="0" end_pos="640" gwpp="-0.121566" phone_total_score="4.427663"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="640" content="internet" dp_message="16" end_pos="640" global_index="1" index="1" property="0" total_score="0.000000">
+                          <syll beg_pos="640" content="ih n t ax n eh t" end_pos="640" serr_msg="1" syll_accent="0" syll_score="0.000000">
+                              <phone beg_pos="640" content="ih" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="n" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="t" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="ax" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="n" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="eh" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="t" dp_message="16" end_pos="640"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="640" content="of" dp_message="16" end_pos="640" global_index="2" index="2" property="0" total_score="0.000000">
+                          <syll beg_pos="640" content="ax v" end_pos="640" serr_msg="1" syll_accent="0" syll_score="0.000000">
+                              <phone beg_pos="640" content="ax" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="v" dp_message="16" end_pos="640"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="640" content="things" dp_message="16" end_pos="640" global_index="3" index="3" property="0" total_score="0.000000">
+                          <syll beg_pos="640" content="th ih ng z" end_pos="640" serr_msg="1" syll_accent="0" syll_score="0.000000">
+                              <phone beg_pos="640" content="th" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="ih" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="ng" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="z" dp_message="16" end_pos="640"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="640" content="will" dp_message="16" end_pos="640" global_index="4" index="4" property="0" total_score="0.000000">
+                          <syll beg_pos="640" content="w ih l" end_pos="640" serr_msg="1" syll_accent="0" syll_score="0.000000">
+                              <phone beg_pos="640" content="w" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="ih" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="l" dp_message="16" end_pos="640"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="640" content="make" dp_message="16" end_pos="640" global_index="5" index="5" property="0" total_score="0.000000">
+                          <syll beg_pos="640" content="m ey k" end_pos="640" serr_msg="1" syll_accent="0" syll_score="0.000000">
+                              <phone beg_pos="640" content="m" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="ey" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="k" dp_message="16" end_pos="640"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="640" content="a" dp_message="16" end_pos="640" global_index="6" index="6" property="0" total_score="0.000000">
+                          <syll beg_pos="640" content="ax" end_pos="640" serr_msg="1" syll_accent="0" syll_score="0.000000">
+                              <phone beg_pos="640" content="ax" dp_message="16" end_pos="640"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="640" content="profound" dp_message="16" end_pos="640" global_index="7" index="7" property="0" total_score="0.000000">
+                          <syll beg_pos="640" content="p r ax f aw n d" end_pos="640" serr_msg="1" syll_accent="0" syll_score="0.000000">
+                              <phone beg_pos="640" content="p" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="r" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="ax" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="f" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="aw" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="n" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="d" dp_message="16" end_pos="640"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="640" content="impact" dp_message="16" end_pos="640" global_index="8" index="8" property="0" total_score="0.000000">
+                          <syll beg_pos="640" content="ih m p ae k t" end_pos="640" serr_msg="1" syll_accent="0" syll_score="0.000000">
+                              <phone beg_pos="640" content="ih" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="m" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="p" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="ae" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="k" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="t" dp_message="16" end_pos="640"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="640" content="on" dp_message="16" end_pos="640" global_index="9" index="9" property="0" total_score="0.000000">
+                          <syll beg_pos="640" content="oo n" end_pos="640" serr_msg="1" syll_accent="0" syll_score="0.000000">
+                              <phone beg_pos="640" content="oo" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="n" dp_message="16" end_pos="640"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="640" content="modern" dp_message="16" end_pos="640" global_index="10" index="10" property="0" total_score="0.000000">
+                          <syll beg_pos="640" content="m oo d ax n" end_pos="640" serr_msg="1" syll_accent="0" syll_score="0.000000">
+                              <phone beg_pos="640" content="m" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="oo" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="d" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="ax" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="n" dp_message="16" end_pos="640"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="640" content="life" dp_message="16" end_pos="640" global_index="11" index="11" property="0" total_score="0.000000">
+                          <syll beg_pos="640" content="l ay f" end_pos="640" serr_msg="1" syll_accent="0" syll_score="0.000000">
+                              <phone beg_pos="640" content="l" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="ay" dp_message="16" end_pos="640"></phone>
+                              <phone beg_pos="640" content="f" dp_message="16" end_pos="640"></phone>
+                          </syll>
+                      </word>
+                      <word beg_pos="640" content="sil" end_pos="1482"></word>
+                  </sentence>
+              </read_chapter>
+          </rec_paper>
+      </read_sentence>
+  </xml_result>

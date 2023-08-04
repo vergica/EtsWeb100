@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufj lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="71" content="rec_paper" end_pos="331" except_info="0" is_rejected="false" keywords="business sightseeing|improve health business|sightseeing improving their health|sightseeing business|business improving health|business improve health|improving health business|improve health sightseeing|improving health sightseeing|improve health sightseeing" phone_score="3.890097" reject_type="0" total_score="3.199141" word_hit_of_each_kw="0.50|0.33|0.25|1.00|0.33|0.33|0.33|0.33|0.33|0.33">
+                  <sentence content="sightseeing and business " index="0">
+                      <word beg_pos="89" content="sightseeing" end_pos="200"></word>
+                      <word beg_pos="200" content="and" end_pos="238"></word>
+                      <word beg_pos="238" content="business" end_pos="312"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufj>
+  </xml_result>

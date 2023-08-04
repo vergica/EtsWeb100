@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <topic lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper accuracy_score="1.757528" beg_pos="157" content="rec_paper" end_pos="2869" except_info="0" is_rejected="false" keypoints="" phone_score="5.000000" reject_type="0" speeking_speed="144.827591" total_score="2.009997">
+                  <sentence content="it was monday afternoon a construction site was six in some problems on the road " index="0">
+                      <word beg_pos="173" content="it" end_pos="197"></word>
+                      <word beg_pos="197" content="was" end_pos="225"></word>
+                      <word beg_pos="225" content="monday" end_pos="271"></word>
+                      <word beg_pos="271" content="afternoon" end_pos="351"></word>
+                      <word beg_pos="351" content="a" end_pos="367"></word>
+                      <word beg_pos="367" content="construction" end_pos="435"></word>
+                      <word beg_pos="435" content="site" end_pos="485"></word>
+                      <word beg_pos="485" content="was" end_pos="551"></word>
+                      <word beg_pos="551" content="six" end_pos="595"></word>
+                      <word beg_pos="595" content="in" end_pos="643"></word>
+                      <word beg_pos="643" content="some" end_pos="727"></word>
+                      <word beg_pos="727" content="problems" end_pos="825"></word>
+                      <word beg_pos="825" content="on" end_pos="849"></word>
+                      <word beg_pos="849" content="the" end_pos="869"></word>
+                      <word beg_pos="869" content="road" end_pos="921"></word>
+                  </sentence>
+                  <sentence content="a blind man was walking towards the site tom found the blind man and ran towards him " index="1">
+                      <word beg_pos="1045" content="a" end_pos="1065"></word>
+                      <word beg_pos="1065" content="blind" end_pos="1101"></word>
+                      <word beg_pos="1101" content="man" end_pos="1127"></word>
+                      <word beg_pos="1127" content="was" end_pos="1154"></word>
+                      <word beg_pos="1154" content="walking" end_pos="1189"></word>
+                      <word beg_pos="1189" content="towards" end_pos="1238"></word>
+                      <word beg_pos="1238" content="the" end_pos="1251"></word>
+                      <word beg_pos="1251" content="site" end_pos="1307"></word>
+                      <word beg_pos="1307" content="tom" end_pos="1425"></word>
+                      <word beg_pos="1425" content="found" end_pos="1492"></word>
+                      <word beg_pos="1492" content="the" end_pos="1503"></word>
+                      <word beg_pos="1503" content="blind" end_pos="1537"></word>
+                      <word beg_pos="1537" content="man" end_pos="1579"></word>
+                      <word beg_pos="1579" content="and" end_pos="1651"></word>
+                      <word beg_pos="1651" content="ran" end_pos="1701"></word>
+                      <word beg_pos="1701" content="towards" end_pos="1749"></word>
+                      <word beg_pos="1749" content="him" end_pos="1793"></word>
+                  </sentence>
+                  <sentence content="he told to the blind man that it&apos;s dangerous ahead of him " index="2">
+                      <word beg_pos="1867" content="he" end_pos="1889"></word>
+                      <word beg_pos="1889" content="told" end_pos="1936"></word>
+                      <word beg_pos="1936" content="to" end_pos="1963"></word>
+                      <word beg_pos="1963" content="the" end_pos="1977"></word>
+                      <word beg_pos="1977" content="blind" end_pos="2009"></word>
+                      <word beg_pos="2009" content="man" end_pos="2037"></word>
+                      <word beg_pos="2037" content="that" end_pos="2083"></word>
+                      <word beg_pos="2083" content="it&apos;s" end_pos="2107"></word>
+                      <word beg_pos="2107" content="dangerous" end_pos="2173"></word>
+                      <word beg_pos="2173" content="ahead" end_pos="2201"></word>
+                      <word beg_pos="2201" content="of" end_pos="2213"></word>
+                      <word beg_pos="2213" content="him" end_pos="2265"></word>
+                  </sentence>
+                  <sentence content="finally he brought the blind man away and they felt very happy " index="3">
+                      <word beg_pos="2359" content="finally" end_pos="2429"></word>
+                      <word beg_pos="2429" content="he" end_pos="2461"></word>
+                      <word beg_pos="2461" content="brought" end_pos="2488"></word>
+                      <word beg_pos="2488" content="the" end_pos="2497"></word>
+                      <word beg_pos="2497" content="blind" end_pos="2525"></word>
+                      <word beg_pos="2525" content="man" end_pos="2547"></word>
+                      <word beg_pos="2547" content="away" end_pos="2609"></word>
+                      <word beg_pos="2609" content="and" end_pos="2651"></word>
+                      <word beg_pos="2651" content="they" end_pos="2673"></word>
+                      <word beg_pos="2673" content="felt" end_pos="2699"></word>
+                      <word beg_pos="2699" content="very" end_pos="2727"></word>
+                      <word beg_pos="2727" content="happy" end_pos="2785"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </topic>
+  </xml_result>

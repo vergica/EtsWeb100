@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="54" content="rec_paper" end_pos="292" except_info="0" is_rejected="false" keywords="thank you|thanks" phone_score="4.871549" reject_type="0" total_score="4.734772">
+                  <sentence content="wow thank you very much " index="0">
+                      <word beg_pos="65" content="wow" end_pos="114"></word>
+                      <word beg_pos="114" content="thank" end_pos="156"></word>
+                      <word beg_pos="156" content="you" end_pos="164"></word>
+                      <word beg_pos="164" content="very" end_pos="195"></word>
+                      <word beg_pos="195" content="much" end_pos="252"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

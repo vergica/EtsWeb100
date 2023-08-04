@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="88" content="rec_paper" end_pos="294" except_info="0" is_rejected="false" keywords="careful have good trip|early now have lunch before leaving|see next time|it&apos;s not late would like one more glass juice|not yet i&apos;m just going prepare lunch" phone_score="4.971844" reject_type="0" total_score="4.390417">
+                  <sentence content="by by see you next time " index="0">
+                      <word beg_pos="102" content="by" end_pos="127"></word>
+                      <word beg_pos="127" content="by" end_pos="156"></word>
+                      <word beg_pos="156" content="see" end_pos="182"></word>
+                      <word beg_pos="182" content="you" end_pos="194"></word>
+                      <word beg_pos="194" content="next" end_pos="229"></word>
+                      <word beg_pos="229" content="time" end_pos="269"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <topic lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper accuracy_score="1.765908" beg_pos="155" content="rec_paper" end_pos="2533" except_info="0" is_rejected="false" keypoints="" phone_score="5.000000" reject_type="0" speeking_speed="138.359207" total_score="2.267397">
+                  <sentence content="today is no smoking day tom and tennis were sitting on a so for suddenly tom felt the smell of a smoke " index="0">
+                      <word beg_pos="157" content="today" end_pos="209"></word>
+                      <word beg_pos="209" content="is" end_pos="231"></word>
+                      <word beg_pos="231" content="no" end_pos="255"></word>
+                      <word beg_pos="255" content="smoking" end_pos="307"></word>
+                      <word beg_pos="307" content="day" end_pos="347"></word>
+                      <word beg_pos="347" content="tom" end_pos="403"></word>
+                      <word beg_pos="403" content="and" end_pos="425"></word>
+                      <word beg_pos="425" content="tennis" end_pos="475"></word>
+                      <word beg_pos="475" content="were" end_pos="511"></word>
+                      <word beg_pos="511" content="sitting" end_pos="549"></word>
+                      <word beg_pos="549" content="on" end_pos="570"></word>
+                      <word beg_pos="570" content="a" end_pos="577"></word>
+                      <word beg_pos="577" content="so" end_pos="599"></word>
+                      <word beg_pos="599" content="for" end_pos="631"></word>
+                      <word beg_pos="631" content="suddenly" end_pos="727"></word>
+                      <word beg_pos="727" content="tom" end_pos="807"></word>
+                      <word beg_pos="807" content="felt" end_pos="861"></word>
+                      <word beg_pos="861" content="the" end_pos="893"></word>
+                      <word beg_pos="893" content="smell" end_pos="942"></word>
+                      <word beg_pos="942" content="of" end_pos="969"></word>
+                      <word beg_pos="969" content="a" end_pos="979"></word>
+                      <word beg_pos="979" content="smoke" end_pos="1041"></word>
+                  </sentence>
+                  <sentence content="she he ran following the smoke finally she went to the door of his neighbors " index="1">
+                      <word beg_pos="1068" content="she" end_pos="1113"></word>
+                      <word beg_pos="1113" content="he" end_pos="1184"></word>
+                      <word beg_pos="1184" content="ran" end_pos="1229"></word>
+                      <word beg_pos="1229" content="following" end_pos="1305"></word>
+                      <word beg_pos="1305" content="the" end_pos="1325"></word>
+                      <word beg_pos="1325" content="smoke" end_pos="1381"></word>
+                      <word beg_pos="1381" content="finally" end_pos="1527"></word>
+                      <word beg_pos="1527" content="she" end_pos="1571"></word>
+                      <word beg_pos="1571" content="went" end_pos="1617"></word>
+                      <word beg_pos="1617" content="to" end_pos="1631"></word>
+                      <word beg_pos="1631" content="the" end_pos="1645"></word>
+                      <word beg_pos="1645" content="door" end_pos="1695"></word>
+                      <word beg_pos="1695" content="of" end_pos="1719"></word>
+                      <word beg_pos="1719" content="his" end_pos="1749"></word>
+                      <word beg_pos="1749" content="neighbors" end_pos="1819"></word>
+                  </sentence>
+                  <sentence content="she told his neighbors that today is no smoking day and stop them from smoking " index="2">
+                      <word beg_pos="1883" content="she" end_pos="1953"></word>
+                      <word beg_pos="1953" content="told" end_pos="2043"></word>
+                      <word beg_pos="2043" content="his" end_pos="2070"></word>
+                      <word beg_pos="2070" content="neighbors" end_pos="2117"></word>
+                      <word beg_pos="2117" content="that" end_pos="2143"></word>
+                      <word beg_pos="2143" content="today" end_pos="2179"></word>
+                      <word beg_pos="2179" content="is" end_pos="2195"></word>
+                      <word beg_pos="2195" content="no" end_pos="2215"></word>
+                      <word beg_pos="2215" content="smoking" end_pos="2263"></word>
+                      <word beg_pos="2263" content="day" end_pos="2293"></word>
+                      <word beg_pos="2293" content="and" end_pos="2317"></word>
+                      <word beg_pos="2317" content="stop" end_pos="2361"></word>
+                      <word beg_pos="2361" content="them" end_pos="2408"></word>
+                      <word beg_pos="2408" content="from" end_pos="2439"></word>
+                      <word beg_pos="2439" content="smoking" end_pos="2503"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </topic>
+  </xml_result>

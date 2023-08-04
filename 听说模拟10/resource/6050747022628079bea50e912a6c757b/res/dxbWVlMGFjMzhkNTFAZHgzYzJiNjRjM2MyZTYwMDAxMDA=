@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufk lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="176" content="rec_paper" end_pos="939" except_info="28676" is_rejected="true" keywords="what should buy birthday what about|what think wants birthday good idea if|what should buy birthday think be good choice" phone_score="3.769565" reject_type="32" total_score="0.673312">
+                  <sentence content="do you know what my mom&apos;s like " index="0">
+                      <word beg_pos="178" content="do" end_pos="201"></word>
+                      <word beg_pos="201" content="you" end_pos="223"></word>
+                      <word beg_pos="223" content="know" end_pos="274"></word>
+                      <word beg_pos="274" content="what" end_pos="331"></word>
+                      <word beg_pos="331" content="my" end_pos="348"></word>
+                      <word beg_pos="348" content="mom&apos;s" end_pos="384"></word>
+                      <word beg_pos="384" content="like" end_pos="432"></word>
+                  </sentence>
+                  <sentence content="what color does she like " index="1">
+                      <word beg_pos="586" content="what" end_pos="683"></word>
+                      <word beg_pos="683" content="color" end_pos="737"></word>
+                      <word beg_pos="737" content="does" end_pos="796"></word>
+                      <word beg_pos="796" content="she" end_pos="816"></word>
+                      <word beg_pos="816" content="like" end_pos="859"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufk>
+  </xml_result>

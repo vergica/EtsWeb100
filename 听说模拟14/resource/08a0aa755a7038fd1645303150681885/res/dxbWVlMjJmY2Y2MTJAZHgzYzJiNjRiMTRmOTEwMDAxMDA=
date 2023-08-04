@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <simple_expression_ufi lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="79" content="rec_paper" end_pos="488" except_info="28676" is_rejected="true" keywords="of course next bus station|left|across street|take bus|over there|end|other side|opposite road|take line three|sorry there isn&apos;t hospital nearby" phone_score="4.042706" reject_type="32" total_score="0.702388">
+                  <sentence content="the nearest hospital is around the corner " index="0">
+                      <word beg_pos="90" content="the" end_pos="121"></word>
+                      <word beg_pos="121" content="nearest" end_pos="179"></word>
+                      <word beg_pos="179" content="hospital" end_pos="261"></word>
+                      <word beg_pos="261" content="is" end_pos="319"></word>
+                      <word beg_pos="319" content="around" end_pos="395"></word>
+                      <word beg_pos="395" content="the" end_pos="406"></word>
+                      <word beg_pos="406" content="corner" end_pos="464"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </simple_expression_ufi>
+  </xml_result>

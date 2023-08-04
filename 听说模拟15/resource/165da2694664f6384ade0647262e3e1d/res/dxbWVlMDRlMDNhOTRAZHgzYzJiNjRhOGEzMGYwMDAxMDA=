@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <xml_result>
+      <free_expression lan="en" type="study" version="7.0.0.1020">
+          <rec_paper>
+              <rec_paper beg_pos="55" content="rec_paper" end_pos="972" except_info="0" is_rejected="false" phone_score="3.344247" reject_type="0" total_score="1.776616">
+                  <sentence content="yes i&apos;d like to travel independently because if i travel independently i can improve myself to country difficulties better " index="0">
+                      <word beg_pos="74" content="yes" end_pos="128"></word>
+                      <word beg_pos="128" content="i&apos;d" end_pos="158"></word>
+                      <word beg_pos="158" content="like" end_pos="180"></word>
+                      <word beg_pos="180" content="to" end_pos="198"></word>
+                      <word beg_pos="198" content="travel" end_pos="240"></word>
+                      <word beg_pos="240" content="independently" end_pos="329"></word>
+                      <word beg_pos="329" content="because" end_pos="378"></word>
+                      <word beg_pos="378" content="if" end_pos="404"></word>
+                      <word beg_pos="404" content="i" end_pos="424"></word>
+                      <word beg_pos="424" content="travel" end_pos="464"></word>
+                      <word beg_pos="464" content="independently" end_pos="566"></word>
+                      <word beg_pos="566" content="i" end_pos="619"></word>
+                      <word beg_pos="619" content="can" end_pos="649"></word>
+                      <word beg_pos="649" content="improve" end_pos="694"></word>
+                      <word beg_pos="694" content="myself" end_pos="768"></word>
+                      <word beg_pos="768" content="to" end_pos="800"></word>
+                      <word beg_pos="800" content="country" end_pos="837"></word>
+                      <word beg_pos="837" content="difficulties" end_pos="901"></word>
+                      <word beg_pos="901" content="better" end_pos="949"></word>
+                  </sentence>
+              </rec_paper>
+          </rec_paper>
+      </free_expression>
+  </xml_result>
